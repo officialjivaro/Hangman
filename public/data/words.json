@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "AARDVARK",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ABALONE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ABACUS",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ABILITY",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ANTELOPE",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "APEX",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "ARCADE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "AVATAR",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "BABOON",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "BADGER",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "BARRACUDA",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "BATMAN",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "BINARY",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "BIOS",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "BLUETOOTH",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "BRAVEHEART",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "CABLE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "CADDYSHACK",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "CAMEL",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "CAPACITOR",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "CASABLANCA",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "CAT",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "CHEETAH",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "COMPUTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "DALMATIAN",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "DATABASE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "DIEHARD",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "DISKETTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "DJANGO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "DOLPHIN",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "DONKEY",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "DRONE",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "EAGLE",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "EARTHWORM",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "EEL",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ELECTRICITY",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ELEPHANT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ELEVATOR",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ENCHANTED",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "EVEREST",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "FALCON",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "FELINE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "FIBONACCI",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "FIREFLY",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "FIRMWARE",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "FLOPPYDISK",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "FORRESTGUMP",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "FROZEN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "GALAXY",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "GAZELLE",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "GHOSTBUSTERS",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "GIBBON",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "GIRAFFE",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "GLADIATOR",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "GOOGLE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "GORILLA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "HAL",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "HARDWARE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "HARVARDARCHITECTURE",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "HERBIVORE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "HERCULES",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "HIPPOPOTAMUS",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "HUGO",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "HYENA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "IBEX",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ICEAGE",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ICICLE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "INCEPTION",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "INTERSTELLAR",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "IPADDRESS",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "IRONMAN",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "IVORY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "JACKAL",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "JACKIECHAN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "JAGUAR",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "JAVA",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "JAWS",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "JELLYFISH",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "JOYSTICK",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "JUMANJI",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "KANGAROO",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "KEYBOARD",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "KILOBYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "KINGKONG",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "KITTY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "KLINGON",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "KOALA",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "LABYRINTH",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "LADYBUG",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "LAPTOP",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "LASER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "LEOPARD",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "LIONKING",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "LIZARD",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "LOGAN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "MACAW",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "MACHINELEARNING",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "MADAGASCAR",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "MAMMOTH",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "MATRIX",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "MEGABYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "METROPOLIS",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "MOOSE",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "NANOSECOND",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "NARUTO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "NARWHAL",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "NEBULA",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "NEMO",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "NEWT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "NIGHTCRAWLER",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "OCTOPUS",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "OMEGA",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "OMEN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ONWARD",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ORANGUTAN",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ORCA",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "OSCAR",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "PANTHER",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "PARROT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "PENGUIN",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "PHOTON",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "PIXAR",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "PLANETOFAPES",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "PRINTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "PROTOCOL",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "QUADRILATERAL",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "QUAIL",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "QUANTICO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "QUANTUMCOMPUTING",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "QUARANTINE",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "QUICKSILVER",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "QUOVADIS",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "QWERTY",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "RABBIT",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "RACCOON",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "RADAR",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "RAMPAGE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "RAPTOR",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "RATCHETANDCLANK",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "RECTIFIER",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ROBOTICS",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "SALMON",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "SATELLITE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "SCARFACE",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "SCORPION",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "SHARK",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "SKYFALL",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "SMARTPHONE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "SPHINX",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "TABLET",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "TARANTULA",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "TERMINATOR",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "THOR",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "TIGER",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "TOUCAN",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "TRON",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "TURTLE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "UBER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "UGLYDUCKLING",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "UNCHARTED",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "UNICODE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "UNICORN",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "UP",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "USB",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "VACUUM",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "VANHELSING",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "VENOM",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "VIPER",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "VIRUS",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "VOLCANO",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "VULTURE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "WALRUS",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "WARCRAFT",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "WASP",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "WIFI",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "WILLOW",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "WIRELESS",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "WOLF",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "WOLVERINE",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "XAVIER",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "XENOBLADE",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "XENON",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "XFILES",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "XIPHIAS",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "XMODEM",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "XOR",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "YAK",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "YANDEX",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "YELLOWSUBMARINE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "YESTERDAY",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "YETI",
+    "category": "ANIMALS",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "YOTTABYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "YOUTUBE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ZEBRA",
+    "category": "ANIMALS",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ZENITH",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ZILLA",
+    "category": "MOVIES",
+    "difficulty": "HARD"
+  },
+  {
+    "word": "ZIPFILE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ZODIAC",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "word": "ZOMBIE",
+    "category": "MOVIES",
+    "difficulty": "EASY"
+  },
+  {
+    "word": "ZORILLA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM"
+  }
+]
