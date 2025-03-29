@@ -21,7 +21,7 @@
 <style scoped>
 .banner-wrapper {
   width: 100%;
-  height: 10vh;
+  height: 5vh;
   position: relative;
   overflow: hidden;
   margin: 0;

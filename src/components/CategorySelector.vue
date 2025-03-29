@@ -1,8 +1,13 @@
 <template>
   <div class="category-selector">
     <select v-model="selectedCategory">
-      <option value="random">Random</option>
-      <option v-for="cat in categories" :key="cat" :value="cat">{{ cat }}</option>
+      <option
+        v-for="cat in categories"
+        :key="cat"
+        :value="cat"
+      >
+        {{ cat }}
+      </option>
     </select>
   </div>
 </template>
@@ -17,7 +22,8 @@ const props = defineProps({
   }
 })
 const emits = defineEmits(['update:category'])
-const selectedCategory = ref('random')
+// Default to "Random" so it matches parent's capitalized "Random"
+const selectedCategory = ref('Random')
 
 watch(selectedCategory, value => {
   emits('update:category', value)
@@ -46,6 +52,7 @@ select {
   background-position: right 10px center;
   background-size: 12px;
 }
+
 select:hover {
   border-color: #666;
 }
