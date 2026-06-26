@@ -1,0 +1,248 @@
+[
+  {
+    "word": "ABBA",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A Swedish pop group that made disco so cool even your grandma danced along."
+  },
+  {
+    "word": "AIDA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A grand opera so dramatic it might leave you singing your grocery list."
+  },
+  {
+    "word": "ALTO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A vocal range so smooth, it can lull a restless toddler to sleep—maybe."
+  },
+  {
+    "word": "ARCADEFIRE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "An indie rock band that set out to prove your grandma was wrong about guitars."
+  },
+  {
+    "word": "ARPEGGIO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A musical flourish that’s basically a fancy way to run up and down a scale."
+  },
+  {
+    "word": "BALALAIKA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A Russian stringed instrument that makes you want to dance in a furry hat."
+  },
+  {
+    "word": "BANJO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A twangy instrument that can make any porch feel legally obligated to host a hoedown."
+  },
+  {
+    "word": "BASSOON",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A woodwind instrument that sounds like a dignified duck giving a TED Talk."
+  },
+  {
+    "word": "BOLERO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A repetitive orchestral piece that escalates from whisper to full-blown meltdown."
+  },
+  {
+    "word": "CELLO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A large string instrument that sounds like a violin grew up and got dramatic."
+  },
+  {
+    "word": "CHOPIN",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A composer so poetic, your piano might cry tears of joy when you play his works."
+  },
+  {
+    "word": "CLARINET",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A woodwind instrument that can squeak like a duck or serenade like a dream, depending on skill."
+  },
+  {
+    "word": "CRESCENDO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "When the tune decides to get louder, gradually sneaking from polite hum to thunderous roar."
+  },
+  {
+    "word": "DEEPPURPLE",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A rock band whose Smoke on the Water riff might haunt your Guitar Hero dreams."
+  },
+  {
+    "word": "DJEMBE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A West African drum that commands you to dance, even if you have two left feet."
+  },
+  {
+    "word": "DRUMS",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Percussion instruments designed to turn rhythm into joyful neighborhood complaints."
+  },
+  {
+    "word": "DULCIMER",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A string instrument that tinkles with such sweetness, even fairies might take notes."
+  },
+  {
+    "word": "ENKA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A Japanese ballad style so passionate, it can make karaoke nights feel like epic drama."
+  },
+  {
+    "word": "FANDANGO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A lively Spanish dance that dares you not to spin out of control."
+  },
+  {
+    "word": "FLAMENCO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A fiery Spanish style where guitars cry, feet stomp, and passion ignites the stage."
+  },
+  {
+    "word": "FLUTE",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A slender wind instrument that makes you look refined, unless you squeak like a duck."
+  },
+  {
+    "word": "GOSPEL",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Spiritual tunes so uplifting, they could make your Monday morning shout ‘Hallelujah!’"
+  },
+  {
+    "word": "GUITAR",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A string instrument that turns three chords into confidence and occasional neighbor complaints."
+  },
+  {
+    "word": "HARMONICA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A pocket instrument that makes you sound lonely, soulful, or stuck at a campfire."
+  },
+  {
+    "word": "HARPSICHORD",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A keyboard instrument that sounds like a guitar got stuck in a piano."
+  },
+  {
+    "word": "JAZZ",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Improvised tunes so cool your toe-tapping might break the sound barrier."
+  },
+  {
+    "word": "KPOP",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A South Korean pop phenomenon with catchy beats that conquer your playlist instantly."
+  },
+  {
+    "word": "LULLABY",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A gentle tune that tries to coax you into dreamland before your insomnia objects."
+  },
+  {
+    "word": "METAL",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A genre so loud, your neighbors might form a support group for battered eardrums."
+  },
+  {
+    "word": "OBOE",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A woodwind instrument that sounds elegant until beginners make it honk emotionally."
+  },
+  {
+    "word": "OPERA",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Singing so dramatic, your teacups might shatter if the soprano hits the right note."
+  },
+  {
+    "word": "PIANO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A keyboard instrument that can whisper lullabies or drop thunder in formalwear."
+  },
+  {
+    "word": "POP",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Catchy tunes so bubbly, they stick in your head longer than gum on a shoe."
+  },
+  {
+    "word": "RAGTIME",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A syncopated piano style that turns your fingers into a cheerful circus."
+  },
+  {
+    "word": "ROCK",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A genre with guitars turned up so loud, it might shake your grandma’s knitting needles."
+  },
+  {
+    "word": "SALSA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A Latin rhythm so spicy you might dance right off the floor—chips not included."
+  },
+  {
+    "word": "SAXOPHONE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A brass-looking woodwind that instantly adds jazz smoke to any room."
+  },
+  {
+    "word": "TECHNO",
+    "category": "MUSIC",
+    "difficulty": "HARD",
+    "definition": "Electronic beats so repetitive, they hypnotize you into dancing like a robot with soul."
+  },
+  {
+    "word": "TROMBONE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A brass instrument with a slide that makes music look like plumbing."
+  },
+  {
+    "word": "TRUMPET",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A brass instrument that announces itself before anyone asks."
+  },
+  {
+    "word": "VIOLIN",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A string instrument that can sound angelic or like a cat protest depending on practice."
+  }
+]

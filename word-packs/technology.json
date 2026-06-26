@@ -1,0 +1,254 @@
+[
+  {
+    "word": "ALGORITHM",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A step-by-step plan computers follow so they can look smarter than us in meetings."
+  },
+  {
+    "word": "ANDROID",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A mobile operating system that proves robots can live inside your pocket."
+  },
+  {
+    "word": "BANDWIDTH",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "The invisible internet pipe that decides whether your video call becomes a slideshow."
+  },
+  {
+    "word": "BLOCKCHAIN",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "A digital ledger that explains itself so seriously everyone nods and pretends to understand."
+  },
+  {
+    "word": "BROWSER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "The app you open to ask the internet questions you refuse to ask humans."
+  },
+  {
+    "word": "CACHE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "Stored computer memory that acts helpful until it stubbornly shows yesterday’s website."
+  },
+  {
+    "word": "COMPILER",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A program that translates your code while silently judging every semicolon."
+  },
+  {
+    "word": "COOKIE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A tiny browser file that remembers you, unlike your favorite coffee shop barista."
+  },
+  {
+    "word": "CYBERSECURITY",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "The digital art of locking doors hackers keep trying to open with crowbars made of code."
+  },
+  {
+    "word": "ENCRYPTION",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "The process of turning information into secret spaghetti only the right key can untangle."
+  },
+  {
+    "word": "ETHERNET",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A cable connection that makes your internet feel like it finally drank coffee."
+  },
+  {
+    "word": "FIREWALL",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A digital bouncer that keeps shady internet guests out of your computer club."
+  },
+  {
+    "word": "GIGABYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A billion bytes of storage, which is somehow still not enough for your photos."
+  },
+  {
+    "word": "IPADDRESS",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A digital home address for your device, minus the nosy neighbors and garden gnomes."
+  },
+  {
+    "word": "JAVA",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A programming language that runs on everything—from your toaster to your spaceship, probably."
+  },
+  {
+    "word": "JAVASCRIPT",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A programming language that makes websites dance and developers whisper at consoles."
+  },
+  {
+    "word": "JOYSTICK",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A gaming device that tests the limits of your thumbs and your patience."
+  },
+  {
+    "word": "KEYBOARD",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A letter jungle where your fingers roam in search of typos and accidental emojis."
+  },
+  {
+    "word": "KILOBYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A thousand bytes—enough memory to store your top-secret text file from the ‘90s."
+  },
+  {
+    "word": "LAPTOP",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A portable computer that loves your lap but hates your battery life."
+  },
+  {
+    "word": "LASER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A focused beam of light that can cut steel, zap cats, or dazzle dance floors."
+  },
+  {
+    "word": "LINUX",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "An operating system loved by servers, penguins, and people who enjoy terminals."
+  },
+  {
+    "word": "MACHINELEARNING",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "Teaching computers to learn, so they can outsmart us and take our snack breaks."
+  },
+  {
+    "word": "MEGABYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A million bytes of data—enough space for memes, but not all your cat photos."
+  },
+  {
+    "word": "MICROCHIP",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny electronic brain that runs gadgets while pretending size does not matter."
+  },
+  {
+    "word": "MODEM",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A small box that brings internet home and occasionally demands a dramatic restart."
+  },
+  {
+    "word": "NANOSECOND",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "One billionth of a second, or the exact time your alarm waits to ring again."
+  },
+  {
+    "word": "NEBULA",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A cosmic cloud of dust or a code name for futuristic projects—take your pick."
+  },
+  {
+    "word": "OMEGA",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "The end of the Greek alphabet—perfect for naming your final, unstoppable code project."
+  },
+  {
+    "word": "PHOTON",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A light particle so fast, it leaves your shadow feeling out of shape."
+  },
+  {
+    "word": "PIXEL",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A tiny square of screen color that joins millions of friends to make pictures."
+  },
+  {
+    "word": "PRINTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A temperamental device that loves paper jams more than printing your final report."
+  },
+  {
+    "word": "PROTOCOL",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "A set of digital manners that computers follow more politely than humans ever could."
+  },
+  {
+    "word": "QUADCOPTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A four-rotor drone that buzzes around like a caffeinated mechanical mosquito."
+  },
+  {
+    "word": "QUANTUMCOMPUTING",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "When your computer decides it can be two places at once, blowing your mind."
+  },
+  {
+    "word": "QWERTY",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "The keyboard layout that ensures your fingers dance an awkward waltz for typos."
+  },
+  {
+    "word": "RADAR",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A detection system that says ‘Peek-a-boo!’ to planes, ships, and speeding drivers."
+  },
+  {
+    "word": "ROUTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A small box that distributes Wi-Fi and accepts blame for everything online."
+  },
+  {
+    "word": "SERVER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A computer that serves data and quietly wonders why everyone keeps asking for more."
+  },
+  {
+    "word": "SOFTWARE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "Invisible computer instructions that behave perfectly until demo day."
+  },
+  {
+    "word": "TRANSISTOR",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "A tiny electronic switch that helped computers shrink from rooms into pockets."
+  },
+  {
+    "word": "UPLOAD",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "Sending a file upward into the internet cloud and hoping it behaves."
+  }
+]

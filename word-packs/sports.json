@@ -1,0 +1,182 @@
+[
+  {
+    "word": "AEROBICS",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "The art of flailing gracefully to music while pretending it's fun."
+  },
+  {
+    "word": "ARCHERY",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "The sport of shooting arrows while pretending you are one cloak away from being legendary."
+  },
+  {
+    "word": "BADMINTON",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A racket sport where the birdie floats gently until someone smashes it with feelings."
+  },
+  {
+    "word": "BASEBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A game of bats, balls, and waiting patiently for someone to sprint dramatically."
+  },
+  {
+    "word": "BASKETBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where tall people and gravity negotiate loudly over a hoop."
+  },
+  {
+    "word": "BOWLING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where you throw a heavy ball and blame the shoes when it goes badly."
+  },
+  {
+    "word": "BOXING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A friendly way of politely punching someone in the face for competitive fun."
+  },
+  {
+    "word": "CARTWHEEL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "When you decide your arms and legs should swap places just for fun."
+  },
+  {
+    "word": "CRICKET",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A bat-and-ball game known for polite clapping and matches that can last longer than your vacation."
+  },
+  {
+    "word": "CYCLING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where legs become engines and hills become personal enemies."
+  },
+  {
+    "word": "DRIBBLE",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "In basketball, bouncing the ball without running away with it—like a well-trained dog."
+  },
+  {
+    "word": "FENCING",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A sport where people poke each other politely while dressed like futuristic beekeepers."
+  },
+  {
+    "word": "FRISBEE",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A flying disc that turns lazy afternoons into UFO sightings for dogs."
+  },
+  {
+    "word": "GOLF",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where people chase tiny balls across enormous lawns with dramatic seriousness."
+  },
+  {
+    "word": "GYMNASTICS",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A sport where people flip through the air while the rest of us fear stairs."
+  },
+  {
+    "word": "HOCKEY",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A fast-paced game on ice where friendly brawls can break out at any time."
+  },
+  {
+    "word": "JUDO",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A martial art where you politely flip someone onto the mat—just for fun."
+  },
+  {
+    "word": "KARATE",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A martial art that teaches you to punch boards and shout dramatically."
+  },
+  {
+    "word": "LUGE",
+    "category": "SPORTS",
+    "difficulty": "HARD",
+    "definition": "Sledding face-up at insane speeds, because normal sledding was too safe."
+  },
+  {
+    "word": "MARATHON",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A 26.2-mile jog that tests your will, your legs, and your playlist’s endurance."
+  },
+  {
+    "word": "NETBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "Basketball’s cousin where dribbling is banned and politeness might actually help."
+  },
+  {
+    "word": "OLYMPICS",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "An international sports fest where five rings mean unity, not marital status."
+  },
+  {
+    "word": "POLO",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A horseback game that fuses golf, hockey, and a dash of wild equestrian chaos."
+  },
+  {
+    "word": "RUGBY",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A contact sport where tackling is encouraged, and the ball looks more confused than football."
+  },
+  {
+    "word": "SKIING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "Sliding down snowy hills while pretending gravity is a recreational partner."
+  },
+  {
+    "word": "SOCCER",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A global sport where feet do the talking and goalkeepers do the panicking."
+  },
+  {
+    "word": "SURFING",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "Standing on a board while the ocean tries to throw you dramatically."
+  },
+  {
+    "word": "SWIMMING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "Moving through water without sinking, ideally with more style than panic."
+  },
+  {
+    "word": "TENNIS",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A racket sport where grunting and fancy footwork unite to battle fuzzy yellow orbs."
+  },
+  {
+    "word": "VOLLEYBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A game where spiking, diving, and sand in awkward places define your day at the beach."
+  }
+]

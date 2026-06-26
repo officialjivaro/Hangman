@@ -1,0 +1,242 @@
+[
+  {
+    "word": "ALMOND",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A nut that masquerades as milk, butter, and your new favorite snack."
+  },
+  {
+    "word": "ANCHOVY",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A salty fish that sneaks onto your pizza and dares you to like it."
+  },
+  {
+    "word": "APRICOT",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A fuzzy little fruit that can't decide if it's a peach or an orange."
+  },
+  {
+    "word": "ARUGULA",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A leaf so peppery it makes your lettuce weep with inferiority."
+  },
+  {
+    "word": "BAGEL",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A chewy bread ring that exists mainly to hold cream cheese like a tiny edible tire."
+  },
+  {
+    "word": "BANQUET",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A fancy feast where forks multiply and you have no clue which to use first."
+  },
+  {
+    "word": "BORSCHT",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Beet soup so red it makes your bowl look like a crime scene."
+  },
+  {
+    "word": "BROWNIE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A chocolate square that bravely answers the question, “What if cake got denser?”"
+  },
+  {
+    "word": "BUNDT",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A ring-shaped cake that loves to show off its donut cousin's figure."
+  },
+  {
+    "word": "BURRITO",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A tortilla sleeping bag stuffed with dinner and questionable life decisions."
+  },
+  {
+    "word": "CALZONE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Pizza’s introverted cousin, all tucked in and ready for munching."
+  },
+  {
+    "word": "CARAMEL",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Sugar’s sticky cousin that turns apples into treats and your teeth into glue."
+  },
+  {
+    "word": "CAYENNE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A spicy powder that sets your taste buds on fire faster than you can say 'ouch.'"
+  },
+  {
+    "word": "CHAI",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A spiced tea so cozy it hugs you from the inside out, then asks for cookies."
+  },
+  {
+    "word": "CHALLAH",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A braided bread so fluffy it can double as a fashion statement on the dinner table."
+  },
+  {
+    "word": "CHEESECAKE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A dessert that somehow convinced cheese to become cake and nobody complained."
+  },
+  {
+    "word": "CORDONBLEU",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A fancy dish that insists on stuffing cheese and ham into chicken, like a culinary matryoshka doll."
+  },
+  {
+    "word": "CORNFLAKES",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Breakfast cereal that wakes you up with a loud crunch and nostalgia for Saturday cartoons."
+  },
+  {
+    "word": "CROISSANT",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A buttery crescent that leaves flaky evidence everywhere it goes."
+  },
+  {
+    "word": "DUMPLING",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A doughy pocket of joy that proves any cuisine can be improved by stuffing it."
+  },
+  {
+    "word": "ENOKI",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Long, thin mushrooms that look like noodle wannabes but taste far more earthy."
+  },
+  {
+    "word": "FALAFEL",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A crispy chickpea ball that makes vegetarian food feel like a crunchy celebration."
+  },
+  {
+    "word": "FRUITCAKE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A dense holiday loaf packed with candied bits that some claim is immortal."
+  },
+  {
+    "word": "GUACAMOLE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Mashed avocado magic that vanishes faster than anyone admits at parties."
+  },
+  {
+    "word": "HOISIN",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A sweet, sticky sauce that makes every stir-fry feel like a VIP guest."
+  },
+  {
+    "word": "HUMMUS",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Chickpea dip that turns vegetables into socially acceptable scoop vehicles."
+  },
+  {
+    "word": "ICECREAM",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A frosty treat that solves heartbreak, celebrates birthdays, and makes your dentist rich."
+  },
+  {
+    "word": "JAMBALAYA",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A Cajun rice dish that parties in your mouth with spices, shrimp, and more spice."
+  },
+  {
+    "word": "KEBAB",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A skewer of grilled delight that proves anything can be improved with stick technology."
+  },
+  {
+    "word": "LASAGNA",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Layered pasta so comforting it could end family feuds—unless Garfield eats it first."
+  },
+  {
+    "word": "MANGO",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A sweet, juicy fruit that drips summer vibes and sticky fingers."
+  },
+  {
+    "word": "NOODLES",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Slurpy strands of joy that coil around your fork and your heart."
+  },
+  {
+    "word": "OYSTER",
+    "category": "FOOD",
+    "difficulty": "HARD",
+    "definition": "A shellfish with a questionable texture that may surprise you with a pearl—or not."
+  },
+  {
+    "word": "PANCAKE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A breakfast disc designed to carry syrup into your soul."
+  },
+  {
+    "word": "PIZZA",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A saucy, cheesy circle that’s the solution to 99% of your hunger problems."
+  },
+  {
+    "word": "QUINOA",
+    "category": "FOOD",
+    "difficulty": "HARD",
+    "definition": "A protein-packed pseudo-grain that tries to be rice but ends up fancier."
+  },
+  {
+    "word": "RAVIOLI",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Pasta pockets that prove stuffing things inside dough is humanity’s greatest invention."
+  },
+  {
+    "word": "SUSHI",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Tiny rice rolls that make chopsticks feel like precision engineering."
+  },
+  {
+    "word": "TACO",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A crunchy or soft flavor envelope that makes Tuesdays feel legally special."
+  },
+  {
+    "word": "WAFFLE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A breakfast grid designed specifically to trap syrup like edible architecture."
+  }
+]

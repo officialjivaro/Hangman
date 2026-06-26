@@ -1,0 +1,53 @@
+:root {
+  --color-ink: #0f1018;
+  --color-midnight: #191728;
+  --color-bone: #eee9dc;
+  --color-moon: #c9c7c4;
+  --color-violet: #6f6687;
+  --color-moss: #68755d;
+  --color-pumpkin: #d47a34;
+  --color-plum: #3b2238;
+  --color-weathered: #694b38;
+  --color-danger: #d0655c;
+  --color-success: #83ad78;
+
+  --font-display: Georgia, 'Times New Roman', serif;
+  --font-body: 'Trebuchet MS', 'Segoe UI', Arial, sans-serif;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+
+  --radius-small: 0.5rem;
+  --radius-medium: 0.85rem;
+  --radius-large: 1.25rem;
+  --radius-pill: 999px;
+
+  --shadow-small: 0 0.25rem 0.65rem rgba(0, 0, 0, 0.24);
+  --shadow-medium: 0 0.7rem 1.75rem rgba(0, 0, 0, 0.34);
+  --shadow-deep: 0 1rem 2.4rem rgba(0, 0, 0, 0.48);
+
+  --transition-fast: 150ms;
+  --transition-normal: 240ms;
+  --header-height: clamp(3.35rem, 7dvh, 5rem);
+  --focus-ring: 0 0 0 3px rgba(225, 191, 132, 0.56);
+
+  --theme-background: #171528;
+  --theme-surface: rgba(24, 23, 37, 0.9);
+  --theme-surface-strong: rgba(12, 13, 21, 0.96);
+  --theme-text: #eee9dc;
+  --theme-muted: #bab4c2;
+  --theme-accent: #d47a34;
+  --theme-accent-soft: #8c6a91;
+  --theme-border: rgba(238, 233, 220, 0.18);
+  --theme-frame: #15141d;
+  --theme-frame-highlight: #79604c;
+  --theme-character-stroke: #eee9dc;
+  --theme-character-fill: #4c4059;
+  --theme-fog: rgba(194, 198, 212, 0.15);
+  --theme-success: #9bc98d;
+  --theme-danger: #e1786d;
+}

@@ -1,0 +1,2660 @@
+[
+  {
+    "word": "ABBA",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A Swedish pop group that made disco so cool even your grandma danced along."
+  },
+  {
+    "word": "ACHILLES",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A legendary hero who could be unstoppable if not for that pesky heel."
+  },
+  {
+    "word": "ACRYLIC",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "A paint so versatile, it sticks to your canvas, your clothes, and maybe your cat."
+  },
+  {
+    "word": "AEROBICS",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "The art of flailing gracefully to music while pretending it's fun."
+  },
+  {
+    "word": "AGAVE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A spiky plant that sweetens your margarita and pokes you at the same time."
+  },
+  {
+    "word": "AIDA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A grand opera so dramatic it might leave you singing your grocery list."
+  },
+  {
+    "word": "ALGORITHM",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A step-by-step plan computers follow so they can look smarter than us in meetings."
+  },
+  {
+    "word": "ALICEINWONDERLAND",
+    "category": "BOOKS",
+    "difficulty": "EASY",
+    "definition": "A curious girl, a grinning cat, and a tea party that'll make you question reality."
+  },
+  {
+    "word": "ALLIGATOR",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A toothy swamp resident that smiles like it knows your escape route is terrible."
+  },
+  {
+    "word": "ALMOND",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A nut that masquerades as milk, butter, and your new favorite snack."
+  },
+  {
+    "word": "ALTO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A vocal range so smooth, it can lull a restless toddler to sleep—maybe."
+  },
+  {
+    "word": "AMARANTH",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A shade of pinkish-red that sounds like a fancy dessert but is actually just a hue."
+  },
+  {
+    "word": "AMBER",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A warm, golden hue that looks like sunshine got stuck in a traffic light."
+  },
+  {
+    "word": "AMELIE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A charming film where whimsy runs the city and garden gnomes get travel benefits."
+  },
+  {
+    "word": "ANCHOVY",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A salty fish that sneaks onto your pizza and dares you to like it."
+  },
+  {
+    "word": "ANDROID",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A mobile operating system that proves robots can live inside your pocket."
+  },
+  {
+    "word": "APHRODITE",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "The goddess of love whose matchmaking skills rival every rom-com you’ve seen."
+  },
+  {
+    "word": "APRICOT",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A fuzzy little fruit that can't decide if it's a peach or an orange."
+  },
+  {
+    "word": "AQUAMARINE",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A blue-green color that looks like the ocean got dressed up for brunch."
+  },
+  {
+    "word": "ARABIC",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language so rich, it could write poetry just by clearing its throat."
+  },
+  {
+    "word": "ARCADEFIRE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "An indie rock band that set out to prove your grandma was wrong about guitars."
+  },
+  {
+    "word": "ARCHERY",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "The sport of shooting arrows while pretending you are one cloak away from being legendary."
+  },
+  {
+    "word": "ARMADILLO",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny armored tank that waddles around like nature gave it medieval pajamas."
+  },
+  {
+    "word": "ARPEGGIO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A musical flourish that’s basically a fancy way to run up and down a scale."
+  },
+  {
+    "word": "ARTEMIS",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A Greek goddess of the hunt who definitely never missed a camping reservation."
+  },
+  {
+    "word": "ARUGULA",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A leaf so peppery it makes your lettuce weep with inferiority."
+  },
+  {
+    "word": "ATHENA",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A wisdom goddess so clever she probably solved puzzles before breakfast."
+  },
+  {
+    "word": "AURORA",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Nature’s neon lights, appearing only when you really can’t find your camera."
+  },
+  {
+    "word": "AVENGERS",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A superhero team that saves the world by arguing dramatically in matching chaos."
+  },
+  {
+    "word": "AZURE",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A fancy blue that pretends it's too cool for just being called 'sky blue.'"
+  },
+  {
+    "word": "BADMINTON",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A racket sport where the birdie floats gently until someone smashes it with feelings."
+  },
+  {
+    "word": "BAGEL",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A chewy bread ring that exists mainly to hold cream cheese like a tiny edible tire."
+  },
+  {
+    "word": "BALALAIKA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A Russian stringed instrument that makes you want to dance in a furry hat."
+  },
+  {
+    "word": "BAMBOO",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A fast-growing plant that pandas treat like an all-you-can-eat buffet."
+  },
+  {
+    "word": "BANDWIDTH",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "The invisible internet pipe that decides whether your video call becomes a slideshow."
+  },
+  {
+    "word": "BANJO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A twangy instrument that can make any porch feel legally obligated to host a hoedown."
+  },
+  {
+    "word": "BANQUET",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A fancy feast where forks multiply and you have no clue which to use first."
+  },
+  {
+    "word": "BASEBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A game of bats, balls, and waiting patiently for someone to sprint dramatically."
+  },
+  {
+    "word": "BASIL",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A herb so aromatic it might convince you you're an Italian chef."
+  },
+  {
+    "word": "BASKETBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where tall people and gravity negotiate loudly over a hoop."
+  },
+  {
+    "word": "BASSOON",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A woodwind instrument that sounds like a dignified duck giving a TED Talk."
+  },
+  {
+    "word": "BEIGE",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A color so neutral it avoids arguments at family dinners."
+  },
+  {
+    "word": "BENGALI",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language so melodic it could sing lullabies to your stubborn alarm clock."
+  },
+  {
+    "word": "BINDWEED",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A clingy vine that just won't take no for an answer when hugging your garden."
+  },
+  {
+    "word": "BISON",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A shaggy grassland tank that looks like it bench-presses prairie wind."
+  },
+  {
+    "word": "BLADE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A vampire hunter movie where sunglasses, leather, and attitude do most of the work."
+  },
+  {
+    "word": "BLIZZARD",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "When winter decides to throw a snow party and forgets to send an end time."
+  },
+  {
+    "word": "BLOCKCHAIN",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "A digital ledger that explains itself so seriously everyone nods and pretends to understand."
+  },
+  {
+    "word": "BOLERO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A repetitive orchestral piece that escalates from whisper to full-blown meltdown."
+  },
+  {
+    "word": "BORSCHT",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Beet soup so red it makes your bowl look like a crime scene."
+  },
+  {
+    "word": "BOTTICELLI",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "A Renaissance painter who basically invented flowing hair and seashell selfies."
+  },
+  {
+    "word": "BOWLING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where you throw a heavy ball and blame the shoes when it goes badly."
+  },
+  {
+    "word": "BOXING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A friendly way of politely punching someone in the face for competitive fun."
+  },
+  {
+    "word": "BRONZE",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A metal-inspired hue perfect for statues, tans, and third-place medals."
+  },
+  {
+    "word": "BROWNIE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A chocolate square that bravely answers the question, “What if cake got denser?”"
+  },
+  {
+    "word": "BROWSER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "The app you open to ask the internet questions you refuse to ask humans."
+  },
+  {
+    "word": "BUNDT",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A ring-shaped cake that loves to show off its donut cousin's figure."
+  },
+  {
+    "word": "BURNINGBUSH",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A shrub so fiery red, it might make your autumn jealous."
+  },
+  {
+    "word": "BURRITO",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A tortilla sleeping bag stuffed with dinner and questionable life decisions."
+  },
+  {
+    "word": "CACHE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "Stored computer memory that acts helpful until it stubbornly shows yesterday’s website."
+  },
+  {
+    "word": "CACTUS",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A plant that survives the desert by being both thirsty and aggressively unfriendly."
+  },
+  {
+    "word": "CALLIGRAPHY",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "Fancy handwriting that makes your grocery list look like a royal decree."
+  },
+  {
+    "word": "CALZONE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Pizza’s introverted cousin, all tucked in and ready for munching."
+  },
+  {
+    "word": "CAMELLIA",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A flower so refined, it might ask you to remove your shoes before watering."
+  },
+  {
+    "word": "CARAMEL",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Sugar’s sticky cousin that turns apples into treats and your teeth into glue."
+  },
+  {
+    "word": "CARDINAL",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A red so deep, it might just convert you to its fashion cult."
+  },
+  {
+    "word": "CARS",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animated world where vehicles have feelings, sponsors, and suspiciously no drivers."
+  },
+  {
+    "word": "CARTOON",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "Animated drawings that teach us an anvil can drop from the sky without notice."
+  },
+  {
+    "word": "CARTWHEEL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "When you decide your arms and legs should swap places just for fun."
+  },
+  {
+    "word": "CAYENNE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A spicy powder that sets your taste buds on fire faster than you can say 'ouch.'"
+  },
+  {
+    "word": "CELLO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A large string instrument that sounds like a violin grew up and got dramatic."
+  },
+  {
+    "word": "CELTIC",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "An ancient tongue that could charm dragons or at least make bagpipes sound cooler."
+  },
+  {
+    "word": "CERBERUS",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A three-headed hound that never learned to fetch, but guards the underworld like a champ."
+  },
+  {
+    "word": "CERULEAN",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A fancy blue shade that might convince you to quit your job and live by the sea."
+  },
+  {
+    "word": "CHAI",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A spiced tea so cozy it hugs you from the inside out, then asks for cookies."
+  },
+  {
+    "word": "CHALLAH",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A braided bread so fluffy it can double as a fashion statement on the dinner table."
+  },
+  {
+    "word": "CHARCOAL",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A moody gray that makes you think of campfires, sketch pads, and smudged fingers."
+  },
+  {
+    "word": "CHARD",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A leafy green that looks like spinach but has rainbow stems just to show off."
+  },
+  {
+    "word": "CHEESECAKE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A dessert that somehow convinced cheese to become cake and nobody complained."
+  },
+  {
+    "word": "CHERUB",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A rosy-cheeked baby angel that aims tiny arrows at you for Valentine's Day shenanigans."
+  },
+  {
+    "word": "CHIVE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A slender herb that keeps onions awake at night with its mild, fresh flavor."
+  },
+  {
+    "word": "CHOPIN",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A composer so poetic, your piano might cry tears of joy when you play his works."
+  },
+  {
+    "word": "CIRRUS",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Wispy clouds that dance in the sky while whispering, 'It might rain, but I'm not telling.'"
+  },
+  {
+    "word": "CLARINET",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A woodwind instrument that can squeak like a duck or serenade like a dream, depending on skill."
+  },
+  {
+    "word": "CLOUDS",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Sky pillows that gather overhead to gossip about whether they should rain."
+  },
+  {
+    "word": "CLOVER",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A three-leaf wonder that promises luck only if you find one with four."
+  },
+  {
+    "word": "COBRA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A snake with a hood that says, “Please admire me from several counties away.”"
+  },
+  {
+    "word": "COCO",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A colorful movie that turns family history, music, and skeletons into emotional confetti."
+  },
+  {
+    "word": "COLLAGE",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "Art made by gluing pieces together until chaos becomes gallery-approved."
+  },
+  {
+    "word": "COMICBOOK",
+    "category": "BOOKS",
+    "difficulty": "EASY",
+    "definition": "Colorful pages where spandex-clad heroes and villains yell ‘Pow!’ and ‘Bam!’ for your delight."
+  },
+  {
+    "word": "COMPILER",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A program that translates your code while silently judging every semicolon."
+  },
+  {
+    "word": "COOKIE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A tiny browser file that remembers you, unlike your favorite coffee shop barista."
+  },
+  {
+    "word": "CORAL",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A pinkish-orange shade that looks like sunset borrowed lipstick."
+  },
+  {
+    "word": "CORDONBLEU",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A fancy dish that insists on stuffing cheese and ham into chicken, like a culinary matryoshka doll."
+  },
+  {
+    "word": "CORNFLAKES",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Breakfast cereal that wakes you up with a loud crunch and nostalgia for Saturday cartoons."
+  },
+  {
+    "word": "COYOTE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A wild canine famous for howling at the moon and ignoring cartoon safety rules."
+  },
+  {
+    "word": "CRAB",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A sideways-walking sea grump with built-in pinchers and zero patience."
+  },
+  {
+    "word": "CRESCENDO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "When the tune decides to get louder, gradually sneaking from polite hum to thunderous roar."
+  },
+  {
+    "word": "CRICKET",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A bat-and-ball game known for polite clapping and matches that can last longer than your vacation."
+  },
+  {
+    "word": "CRIMSON",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A deep red that screams ‘Look at me!’ in a voice louder than a fire truck."
+  },
+  {
+    "word": "CROISSANT",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A buttery crescent that leaves flaky evidence everywhere it goes."
+  },
+  {
+    "word": "CYBERSECURITY",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "The digital art of locking doors hackers keep trying to open with crowbars made of code."
+  },
+  {
+    "word": "CYCLING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where legs become engines and hills become personal enemies."
+  },
+  {
+    "word": "CYCLONE",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "A swirling storm that spins faster than your washing machine on its angriest cycle."
+  },
+  {
+    "word": "DAFFODIL",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A cheerful yellow bloom that pops up in spring to remind winter it’s time to leave."
+  },
+  {
+    "word": "DAISY",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A cheerful flower that looks innocent while secretly starring in every meadow photo."
+  },
+  {
+    "word": "DANISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A Scandinavian tongue that pairs brilliantly with pastries and cozy winter sweaters."
+  },
+  {
+    "word": "DECO",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "A style so glitzy it makes skyscrapers look like they're wearing sequined dresses."
+  },
+  {
+    "word": "DEEPPURPLE",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A rock band whose Smoke on the Water riff might haunt your Guitar Hero dreams."
+  },
+  {
+    "word": "DEITY",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A divine being with more power than your Wi-Fi router on a good day."
+  },
+  {
+    "word": "DEMIGOD",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "Half mortal, half god, fully qualified to attend awkward family reunions on Olympus."
+  },
+  {
+    "word": "DJEMBE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A West African drum that commands you to dance, even if you have two left feet."
+  },
+  {
+    "word": "DOGWOOD",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tree that shows off pastel blooms in spring, making your neighbors’ yard jealous."
+  },
+  {
+    "word": "DRACULA",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "A vampire novel that made capes, castles, and poor sleep schedules fashionable."
+  },
+  {
+    "word": "DRAGONFLY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A flying insect that looks like a tiny helicopter designed by a jeweler."
+  },
+  {
+    "word": "DRIBBLE",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "In basketball, bouncing the ball without running away with it—like a well-trained dog."
+  },
+  {
+    "word": "DRIZZLE",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Rain that cannot commit to being dramatic but still ruins your hair."
+  },
+  {
+    "word": "DRUMS",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Percussion instruments designed to turn rhythm into joyful neighborhood complaints."
+  },
+  {
+    "word": "DULCIMER",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A string instrument that tinkles with such sweetness, even fairies might take notes."
+  },
+  {
+    "word": "DUMBO",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A flying elephant story proving ears can be both adorable and aerodynamic."
+  },
+  {
+    "word": "DUMPLING",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A doughy pocket of joy that proves any cuisine can be improved by stuffing it."
+  },
+  {
+    "word": "DUNE",
+    "category": "BOOKS",
+    "difficulty": "EASY",
+    "definition": "A sci-fi novel about giant worms, spice, and the best desert fashion statement ever."
+  },
+  {
+    "word": "DUTCH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that sounds like English and German met for coffee and got creative."
+  },
+  {
+    "word": "EBONY",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A deep, dark black that thinks it’s cooler than just saying ‘black.’"
+  },
+  {
+    "word": "ELYSIUM",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "The afterlife VIP lounge where heroes go to sip ambrosia and brag about their quests."
+  },
+  {
+    "word": "EMERALD",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A green so rich it looks like money decided to become a gemstone."
+  },
+  {
+    "word": "ENCRYPTION",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "The process of turning information into secret spaghetti only the right key can untangle."
+  },
+  {
+    "word": "ENGLISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that loves borrowing words from others and never returning them."
+  },
+  {
+    "word": "ENKA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A Japanese ballad style so passionate, it can make karaoke nights feel like epic drama."
+  },
+  {
+    "word": "ENOKI",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Long, thin mushrooms that look like noodle wannabes but taste far more earthy."
+  },
+  {
+    "word": "EPIC",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "A long story so grand, you might forget what real life is while reading."
+  },
+  {
+    "word": "ETHERNET",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A cable connection that makes your internet feel like it finally drank coffee."
+  },
+  {
+    "word": "FALAFEL",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A crispy chickpea ball that makes vegetarian food feel like a crunchy celebration."
+  },
+  {
+    "word": "FANDANGO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A lively Spanish dance that dares you not to spin out of control."
+  },
+  {
+    "word": "FANTASIA",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A musical Disney experiment where brooms dance better than most people at weddings."
+  },
+  {
+    "word": "FENCING",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A sport where people poke each other politely while dressed like futuristic beekeepers."
+  },
+  {
+    "word": "FENNEL",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "An herb with a licorice taste so mild it won’t remind you of candy, promise."
+  },
+  {
+    "word": "FERN",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A leafy plant that makes every room look like it hired a forest consultant."
+  },
+  {
+    "word": "FERRET",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A noodle-shaped mammal that steals socks and possibly your sense of order."
+  },
+  {
+    "word": "FIREWALL",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A digital bouncer that keeps shady internet guests out of your computer club."
+  },
+  {
+    "word": "FLAMENCO",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A fiery Spanish style where guitars cry, feet stomp, and passion ignites the stage."
+  },
+  {
+    "word": "FLAMINGO",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A pink bird that stands on one leg like it is posing for a tropical magazine cover."
+  },
+  {
+    "word": "FLAX",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A plant that moonlights as linen, seeds, and a reason to question your diet choices."
+  },
+  {
+    "word": "FLEMISH",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A Dutch dialect that might trick you into thinking Belgium is all about waffles."
+  },
+  {
+    "word": "FLUTE",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A slender wind instrument that makes you look refined, unless you squeak like a duck."
+  },
+  {
+    "word": "FOG",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "A cloud that got lost and decided to wander around at street level."
+  },
+  {
+    "word": "FOLKLORE",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "Tales passed down that explain everything from talking foxes to why socks vanish."
+  },
+  {
+    "word": "FRANKENSTEIN",
+    "category": "BOOKS",
+    "difficulty": "HARD",
+    "definition": "A novel proving that building a person from spare parts creates paperwork and problems."
+  },
+  {
+    "word": "FRENCH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that can make ordering bread sound like a romantic poem."
+  },
+  {
+    "word": "FRESCO",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "A wall painting technique that says wet plaster is just canvas with attitude."
+  },
+  {
+    "word": "FRISBEE",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A flying disc that turns lazy afternoons into UFO sightings for dogs."
+  },
+  {
+    "word": "FRUITCAKE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A dense holiday loaf packed with candied bits that some claim is immortal."
+  },
+  {
+    "word": "FUCHSIA",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A magenta-like shade so loud, it might wake the neighbors at midnight."
+  },
+  {
+    "word": "GAELIC",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A Celtic language that can make even mundane words sound like a mystical chant."
+  },
+  {
+    "word": "GERMAN",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language famous for long words that look like sentences wearing trench coats."
+  },
+  {
+    "word": "GIGABYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A billion bytes of storage, which is somehow still not enough for your photos."
+  },
+  {
+    "word": "GODZILLA",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A giant monster movie icon who treats cities like inconvenient stacks of blocks."
+  },
+  {
+    "word": "GOLD",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A shiny yellow color that immediately starts acting expensive."
+  },
+  {
+    "word": "GOLF",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A sport where people chase tiny balls across enormous lawns with dramatic seriousness."
+  },
+  {
+    "word": "GOODFELLAS",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A mob movie where dinner, crime, and narration all arrive perfectly seasoned."
+  },
+  {
+    "word": "GOSPEL",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Spiritual tunes so uplifting, they could make your Monday morning shout ‘Hallelujah!’"
+  },
+  {
+    "word": "GOUACHE",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "An opaque paint that gives watercolor a facelift and your canvas a thick attitude."
+  },
+  {
+    "word": "GREEK",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "An ancient language that gave us philosophy, drama, and very intimidating letters."
+  },
+  {
+    "word": "GREMLINS",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A creature feature explaining why snacks after midnight are a terrible business plan."
+  },
+  {
+    "word": "GUACAMOLE",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Mashed avocado magic that vanishes faster than anyone admits at parties."
+  },
+  {
+    "word": "GUITAR",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A string instrument that turns three chords into confidence and occasional neighbor complaints."
+  },
+  {
+    "word": "GYMNASTICS",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A sport where people flip through the air while the rest of us fear stairs."
+  },
+  {
+    "word": "HADES",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "The underworld boss who proves every family has one gloomy manager."
+  },
+  {
+    "word": "HAIL",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Frozen sky marbles that fall down and bully your windshield."
+  },
+  {
+    "word": "HAMLET",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "A tragic play where everyone overthinks, monologues, and makes terrible decisions."
+  },
+  {
+    "word": "HAMSTER",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A tiny pet powered by snacks, wheels, and mysterious midnight construction projects."
+  },
+  {
+    "word": "HARMONICA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A pocket instrument that makes you sound lonely, soulful, or stuck at a campfire."
+  },
+  {
+    "word": "HARPSICHORD",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A keyboard instrument that sounds like a guitar got stuck in a piano."
+  },
+  {
+    "word": "HAZEL",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A warm brownish hue that eyes love to flaunt and nature loves to replicate."
+  },
+  {
+    "word": "HEATWAVE",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "When the sun decides your entire town should become soup."
+  },
+  {
+    "word": "HEBREW",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language with ancient roots and letters that read right-to-left like a plot twist."
+  },
+  {
+    "word": "HEDGEHOG",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny spiky mammal that looks cuddly until your hands learn physics."
+  },
+  {
+    "word": "HELIOTROPE",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A purple so flowery, it might just outshine the blossoms in your backyard."
+  },
+  {
+    "word": "HERA",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A Greek queen goddess who handled divine drama with terrifying royal patience."
+  },
+  {
+    "word": "HERBALISM",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "The study of plants that insists on curing your ailments with leaves and magic."
+  },
+  {
+    "word": "HERMES",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A speedy messenger god who basically invented express delivery with sandals."
+  },
+  {
+    "word": "HIBISCUS",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A tropical flower so flashy it makes vacation shirts look subtle."
+  },
+  {
+    "word": "HINDI",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A widely spoken language that carries songs, stories, and excellent movie drama."
+  },
+  {
+    "word": "HOCKEY",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A fast-paced game on ice where friendly brawls can break out at any time."
+  },
+  {
+    "word": "HOISIN",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A sweet, sticky sauce that makes every stir-fry feel like a VIP guest."
+  },
+  {
+    "word": "HUGO",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A film so whimsical, it turns train stations into magical playgrounds for clock-fixing kids."
+  },
+  {
+    "word": "HUMMUS",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Chickpea dip that turns vegetables into socially acceptable scoop vehicles."
+  },
+  {
+    "word": "HURRICANE",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "A massive spinning storm that treats coastlines like poorly arranged furniture."
+  },
+  {
+    "word": "HYENA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A cackling carnivore that laughs at its own jokes and your survival plans."
+  },
+  {
+    "word": "IBEX",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A mountain goat with horns so fancy, it makes your hairstyle look dull."
+  },
+  {
+    "word": "IBIS",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A long-beaked bird that strolls around like it has official wetland business."
+  },
+  {
+    "word": "ICARUS",
+    "category": "MYTHOLOGY",
+    "difficulty": "HARD",
+    "definition": "The guy who flew too close to the sun, forgetting sunscreen and wax don’t mix."
+  },
+  {
+    "word": "ICEAGE",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A prehistoric tale of a squirrel, an acorn, and the ultimate patience test."
+  },
+  {
+    "word": "ICECREAM",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A frosty treat that solves heartbreak, celebrates birthdays, and makes your dentist rich."
+  },
+  {
+    "word": "ICICLE",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "A frozen spike of doom hanging from rooftops, just waiting to drop on unsuspecting heads."
+  },
+  {
+    "word": "IGUANA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A lizard that lounges so confidently it looks like it owns the sunbeam."
+  },
+  {
+    "word": "ILIAD",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "Epic Greek poem of war, gods, and the famous heel that sparked a thousand battles."
+  },
+  {
+    "word": "ILLUSTRATION",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "Turning ideas into pictures, for people who prefer visuals over reading instructions."
+  },
+  {
+    "word": "IMPALA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A graceful antelope that jumps like gravity forgot to check its calendar."
+  },
+  {
+    "word": "INCEPTION",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A dream within a dream within a headache that leaves you spinning like a top."
+  },
+  {
+    "word": "INCREDIBLES",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A superhero family movie proving stretchy parents and invisible teens still have chores."
+  },
+  {
+    "word": "INDIGO",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A deep, moody blue that is too cool to just be ‘blue.’"
+  },
+  {
+    "word": "INSTALLATION",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "A 3D artwork so large and confusing, it might eat your living room for breakfast."
+  },
+  {
+    "word": "INTERSTELLAR",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A cosmic voyage that proves love can transcend dimensions, but your popcorn might not."
+  },
+  {
+    "word": "INUKTITUT",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "An Inuit language with sounds as crisp as snow under very serious boots."
+  },
+  {
+    "word": "IPADDRESS",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A digital home address for your device, minus the nosy neighbors and garden gnomes."
+  },
+  {
+    "word": "IRIS",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A vibrant flower so regal, it practically demands you address it as ‘Your Majesty.’"
+  },
+  {
+    "word": "IRONMAN",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A billionaire in a metal suit who fights baddies and still finds time to crack jokes."
+  },
+  {
+    "word": "ITALIAN",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A romance language that makes even your grocery list sound like a love poem."
+  },
+  {
+    "word": "IVORY",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A pale hue fancy enough for pianos and wedding dresses—just don’t spill coffee on it."
+  },
+  {
+    "word": "JACARANDA",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A tree that showers purple flowers like confetti, turning sidewalks into fairy-tale paths."
+  },
+  {
+    "word": "JACKAL",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A canine trickster that laughs at your secrets while raiding the neighborhood trash."
+  },
+  {
+    "word": "JACKIECHAN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A martial arts legend who does his own stunts and might out-parkour your dreams."
+  },
+  {
+    "word": "JAGUAR",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A spotted cat who thinks it’s the stealth boss of the rainforest—and it’s right."
+  },
+  {
+    "word": "JAMBALAYA",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "A Cajun rice dish that parties in your mouth with spices, shrimp, and more spice."
+  },
+  {
+    "word": "JANEEYRE",
+    "category": "BOOKS",
+    "difficulty": "HARD",
+    "definition": "A gothic novel of love, mystery, and an attic secret that might terrify your book club."
+  },
+  {
+    "word": "JAPANESE",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A polite language full of hidden levels of respect, like an onion with manners."
+  },
+  {
+    "word": "JAVA",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A programming language that runs on everything—from your toaster to your spaceship, probably."
+  },
+  {
+    "word": "JAVASCRIPT",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A programming language that makes websites dance and developers whisper at consoles."
+  },
+  {
+    "word": "JAWS",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A film about a giant shark that made everyone fear beaches—thanks Spielberg."
+  },
+  {
+    "word": "JAZZ",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Improvised tunes so cool your toe-tapping might break the sound barrier."
+  },
+  {
+    "word": "JELLYFISH",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A wiggly sea creature that’s half water balloon, half electric fence, and all confusion."
+  },
+  {
+    "word": "JORMUNGANDR",
+    "category": "MYTHOLOGY",
+    "difficulty": "HARD",
+    "definition": "A massive serpent who thought wrapping around the Earth was the ultimate cuddle."
+  },
+  {
+    "word": "JOYSTICK",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A gaming device that tests the limits of your thumbs and your patience."
+  },
+  {
+    "word": "JUDO",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A martial art where you politely flip someone onto the mat—just for fun."
+  },
+  {
+    "word": "JUMANJI",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A board game so lively, it unleashes jungle chaos on your living room—roll at your own risk."
+  },
+  {
+    "word": "JURASSICPARK",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A dinosaur movie proving that theme parks and ancient predators are a poor investment mix."
+  },
+  {
+    "word": "KANGAROO",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "An Aussie hopper with a built-in pouch, like a living fanny pack for baby roos."
+  },
+  {
+    "word": "KARATE",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A martial art that teaches you to punch boards and shout dramatically."
+  },
+  {
+    "word": "KEBAB",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A skewer of grilled delight that proves anything can be improved with stick technology."
+  },
+  {
+    "word": "KEYBOARD",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A letter jungle where your fingers roam in search of typos and accidental emojis."
+  },
+  {
+    "word": "KILOBYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A thousand bytes—enough memory to store your top-secret text file from the ‘90s."
+  },
+  {
+    "word": "KINGKONG",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A giant ape who scales skyscrapers like they’re playground slides—no bananas required."
+  },
+  {
+    "word": "KITTY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A feline friend that plots world domination between naps and treat demands."
+  },
+  {
+    "word": "KLINGON",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A warrior race from Star Trek with forehead ridges cooler than your wrinkles."
+  },
+  {
+    "word": "KOALA",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A eucalyptus-munching marsupial that looks cuddly but might judge your life choices."
+  },
+  {
+    "word": "KOREAN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language that pairs perfectly with K-dramas, K-pop, and your next kimchi craving."
+  },
+  {
+    "word": "KPOP",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A South Korean pop phenomenon with catchy beats that conquer your playlist instantly."
+  },
+  {
+    "word": "KRAKEN",
+    "category": "MYTHOLOGY",
+    "difficulty": "HARD",
+    "definition": "A giant sea monster that terrorizes ships, proving nightmares can come in tentacle form."
+  },
+  {
+    "word": "KUDZU",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A vine that grows so fast it might steal your car keys if parked too long."
+  },
+  {
+    "word": "LABYRINTH",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A fantasy film with a goblin king so dazzling he almost outshines his own mullet."
+  },
+  {
+    "word": "LADYBUG",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A polka-dotted insect that brings luck—unless you’re a leaf it’s about to munch."
+  },
+  {
+    "word": "LAPTOP",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A portable computer that loves your lap but hates your battery life."
+  },
+  {
+    "word": "LASAGNA",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Layered pasta so comforting it could end family feuds—unless Garfield eats it first."
+  },
+  {
+    "word": "LASER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A focused beam of light that can cut steel, zap cats, or dazzle dance floors."
+  },
+  {
+    "word": "LATIN",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A dead language that refuses to die, whispering ‘Carpe diem’ from ancient textbooks."
+  },
+  {
+    "word": "LAVENDER",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A soothing purple hue that smells like grandma’s sachets and gentle dreams."
+  },
+  {
+    "word": "LEMUR",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A wide-eyed primate that looks permanently surprised by its own tail."
+  },
+  {
+    "word": "LEOPARD",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A spotted cat that hunts silently but announces fashion statements loudly."
+  },
+  {
+    "word": "LESMISERABLES",
+    "category": "BOOKS",
+    "difficulty": "HARD",
+    "definition": "A 19th-century novel so epic it can double as a doorstop—and then sing about it."
+  },
+  {
+    "word": "LIGHTNING",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Sky electricity that flashes dramatically before thunder gives its loud opinion."
+  },
+  {
+    "word": "LINUX",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "An operating system loved by servers, penguins, and people who enjoy terminals."
+  },
+  {
+    "word": "LIONKING",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A Disney tale of royal felines and an uncle so shady Scar’s got permanent sunburn."
+  },
+  {
+    "word": "LITHOGRAPH",
+    "category": "ART",
+    "difficulty": "HARD",
+    "definition": "A printing technique that gives your stone slab a chance to become immortal art."
+  },
+  {
+    "word": "LIZARD",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A reptile that sometimes abandons its tail faster than you can say 'ouch.'"
+  },
+  {
+    "word": "LOGAN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A gritty superhero film proving even claws get old and cranky."
+  },
+  {
+    "word": "LOKI",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A mischievous trickster god who pranks for fun and occasionally breaks the universe."
+  },
+  {
+    "word": "LOTUS",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A serene flower that blooms in murky water, making mud look like a day spa."
+  },
+  {
+    "word": "LUGE",
+    "category": "SPORTS",
+    "difficulty": "HARD",
+    "definition": "Sledding face-up at insane speeds, because normal sledding was too safe."
+  },
+  {
+    "word": "LULLABY",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A gentle tune that tries to coax you into dreamland before your insomnia objects."
+  },
+  {
+    "word": "MACAW",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A parrot so colorful it makes rainbows question their life choices."
+  },
+  {
+    "word": "MACBETH",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "A Shakespeare tragedy where ambition, witches, and bad choices ruin everyone’s evening."
+  },
+  {
+    "word": "MACHINELEARNING",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "Teaching computers to learn, so they can outsmart us and take our snack breaks."
+  },
+  {
+    "word": "MADAGASCAR",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animated zoo escape where dancing lemurs and a paranoid zebra steal the show."
+  },
+  {
+    "word": "MAGENTA",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A color so bold it walks into rooms before you do."
+  },
+  {
+    "word": "MAGNOLIA",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A tree whose blossoms are so large they could host a tea party for fairies."
+  },
+  {
+    "word": "MAMMOTH",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A prehistoric elephant with built-in fur coat and tusks designed for winter fashion."
+  },
+  {
+    "word": "MANDARIN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A tonal language so intricate, your tongue might do backflips if it had feet."
+  },
+  {
+    "word": "MANGO",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A sweet, juicy fruit that drips summer vibes and sticky fingers."
+  },
+  {
+    "word": "MAPLE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tree famous for leaves, syrup, and making pancakes feel important."
+  },
+  {
+    "word": "MARATHON",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A 26.2-mile jog that tests your will, your legs, and your playlist’s endurance."
+  },
+  {
+    "word": "MAROON",
+    "category": "COLOR",
+    "difficulty": "HARD",
+    "definition": "A deep reddish-brown hue that can’t decide if it’s fancy red or super-serious purple."
+  },
+  {
+    "word": "MATRIX",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A sci-fi flick that makes you question your reality—and your spoon collection."
+  },
+  {
+    "word": "MEDUSA",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A serpent-haired lady whose beauty routine involves petrifying anyone who dares stare."
+  },
+  {
+    "word": "MEERKAT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny lookout expert that stands guard like it heard gossip over the horizon."
+  },
+  {
+    "word": "MEGABYTE",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A million bytes of data—enough space for memes, but not all your cat photos."
+  },
+  {
+    "word": "MEMENTO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A backwards mystery that makes your memory feel underqualified for the job."
+  },
+  {
+    "word": "METAL",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A genre so loud, your neighbors might form a support group for battered eardrums."
+  },
+  {
+    "word": "METROPOLIS",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A silent film classic that invented futuristic cityscapes before we had flying cars."
+  },
+  {
+    "word": "MICROCHIP",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny electronic brain that runs gadgets while pretending size does not matter."
+  },
+  {
+    "word": "MINOTAUR",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A half-bull maze resident with terrible directions and worse hospitality."
+  },
+  {
+    "word": "MIST",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Fog’s shy cousin that gently appears and makes everything look mysterious."
+  },
+  {
+    "word": "MOANA",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An ocean adventure where the sea has opinions and a chicken has questionable instincts."
+  },
+  {
+    "word": "MOBYDICK",
+    "category": "BOOKS",
+    "difficulty": "HARD",
+    "definition": "A colossal whale tale proving revenge is best served with a side of sea salt."
+  },
+  {
+    "word": "MODEM",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A small box that brings internet home and occasionally demands a dramatic restart."
+  },
+  {
+    "word": "MONSOON",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Rainy season that turns streets into rivers and umbrellas into boats."
+  },
+  {
+    "word": "MOOSE",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A massive deerlike creature that laughs in the face of your tiny car."
+  },
+  {
+    "word": "MOSAIC",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "Art made from tiny pieces, proving broken bits can become fabulous."
+  },
+  {
+    "word": "MULAN",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A warrior tale where courage, disguise, and one tiny dragon save the day."
+  },
+  {
+    "word": "MURAL",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "A giant painting on a wall that saves your wallpaper from being too boring."
+  },
+  {
+    "word": "NANOSECOND",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "One billionth of a second, or the exact time your alarm waits to ring again."
+  },
+  {
+    "word": "NARUTO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A ninja tale so full of ramen, you’ll crave noodles more than superpowers."
+  },
+  {
+    "word": "NARWHAL",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "The unicorn of the sea, proving that even whales need fancy headgear."
+  },
+  {
+    "word": "NAVY",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A deep blue so serious, it commands ships and your wardrobe at the same time."
+  },
+  {
+    "word": "NEBULA",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A cosmic cloud of dust or a code name for futuristic projects—take your pick."
+  },
+  {
+    "word": "NEMESIS",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A Greek goddess of retribution whose sole job is to ensure poetic justice happens."
+  },
+  {
+    "word": "NEMO",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A lost clownfish who taught the world never to underestimate a forgetful blue friend."
+  },
+  {
+    "word": "NETBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "Basketball’s cousin where dribbling is banned and politeness might actually help."
+  },
+  {
+    "word": "NETTLE",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A stinging plant that gives free acupuncture sessions if you dare to touch it."
+  },
+  {
+    "word": "NEWT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A small amphibian that occasionally photobombs witches’ cauldrons in fairy tales."
+  },
+  {
+    "word": "NIGHTCRAWLER",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A thriller so intense, it might make you reconsider late-night career changes."
+  },
+  {
+    "word": "NINETEENEIGHTYFOUR",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "Orwell’s classic that makes you eye your webcam suspiciously and question your dictionary."
+  },
+  {
+    "word": "NOODLES",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Slurpy strands of joy that coil around your fork and your heart."
+  },
+  {
+    "word": "NORWEGIAN",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A Nordic tongue that pairs effortlessly with fjords, trolls, and cozy sweaters."
+  },
+  {
+    "word": "OBELISK",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "A tall stone monument that points upward like architecture asking a question."
+  },
+  {
+    "word": "OBOE",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A woodwind instrument that sounds elegant until beginners make it honk emotionally."
+  },
+  {
+    "word": "OCHRE",
+    "category": "COLOR",
+    "difficulty": "HARD",
+    "definition": "A yellowish-brown pigment that insists it’s more cultured than regular mud."
+  },
+  {
+    "word": "OCTOPUS",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "An eight-armed genius that opens jars and your mind about seafood intelligence."
+  },
+  {
+    "word": "ODIN",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A Norse god with ravens, wisdom, and the ultimate mysterious grandpa energy."
+  },
+  {
+    "word": "ODYSSEY",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "An epic journey proving going home can take monsters, gods, and terrible navigation."
+  },
+  {
+    "word": "OILPAINTING",
+    "category": "ART",
+    "difficulty": "HARD",
+    "definition": "A messy medium that demands patience, turpentine, and occasional tears of frustration."
+  },
+  {
+    "word": "OLEANDER",
+    "category": "PLANTS",
+    "difficulty": "HARD",
+    "definition": "A pretty flower that politely warns: 'Admire me, but please don't nibble.'"
+  },
+  {
+    "word": "OLIVER",
+    "category": "BOOKS",
+    "difficulty": "EASY",
+    "definition": "A Dickensian orphan who wants more gruel but ends up with more adventure."
+  },
+  {
+    "word": "OLYMPICS",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "An international sports fest where five rings mean unity, not marital status."
+  },
+  {
+    "word": "OMEGA",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "The end of the Greek alphabet—perfect for naming your final, unstoppable code project."
+  },
+  {
+    "word": "OMEN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A horror film about a kid so creepy, you’ll think twice before babysitting again."
+  },
+  {
+    "word": "ONWARD",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A fantasy road trip where elves, magic, and half a dad are the norm."
+  },
+  {
+    "word": "OPERA",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Singing so dramatic, your teacups might shatter if the soprano hits the right note."
+  },
+  {
+    "word": "ORANGUTAN",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A great ape with serious arms and a knack for making trees their personal hammocks."
+  },
+  {
+    "word": "ORCA",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A black-and-white whale that flips seals like pancakes—nature’s aquatic panda on steroids."
+  },
+  {
+    "word": "ORCHID",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A fancy flower that looks delicate and judges your watering habits silently."
+  },
+  {
+    "word": "ORIGAMI",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "Paper folding that turns a flat square into a crane and your patience into confetti."
+  },
+  {
+    "word": "OSCAR",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A golden statue that actors cry over when hugging it, thanking their mom and agent."
+  },
+  {
+    "word": "OSIRIS",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "Egyptian god of the afterlife, proving mummies can have complex family drama too."
+  },
+  {
+    "word": "OTTER",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A water-loving mammal that eats snacks on its belly like a floating couch potato."
+  },
+  {
+    "word": "OYSTER",
+    "category": "FOOD",
+    "difficulty": "HARD",
+    "definition": "A shellfish with a questionable texture that may surprise you with a pearl—or not."
+  },
+  {
+    "word": "PALM",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tropical tree that makes beaches look like they hired decorators."
+  },
+  {
+    "word": "PANCAKE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A breakfast disc designed to carry syrup into your soul."
+  },
+  {
+    "word": "PANTHER",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A sleek black cat prowling the jungle with a confidence that outstruts supermodels."
+  },
+  {
+    "word": "PARROT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A bird that repeats your secrets and occasionally stages a coup against boredom."
+  },
+  {
+    "word": "PASTEL",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "A soft art material that makes colors gentle and fingers very suspicious."
+  },
+  {
+    "word": "PEACOCK",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A bird that opens its tail like nature’s most dramatic hand fan."
+  },
+  {
+    "word": "PEGASUS",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A winged horse who probably hates airport security lines but loves flying over rainbows."
+  },
+  {
+    "word": "PENGUIN",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A flightless bird that waddles around Antarctica wearing a tux, no event required."
+  },
+  {
+    "word": "PERIWINKLE",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A gentle bluish-purple that sounds like a fairy-tale flower and looks like one too."
+  },
+  {
+    "word": "PETERPAN",
+    "category": "BOOKS",
+    "difficulty": "EASY",
+    "definition": "A boy who refuses to grow up, raising serious property tax issues in Neverland."
+  },
+  {
+    "word": "PHOTON",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A light particle so fast, it leaves your shadow feeling out of shape."
+  },
+  {
+    "word": "PIANO",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A keyboard instrument that can whisper lullabies or drop thunder in formalwear."
+  },
+  {
+    "word": "PINE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A coniferous tree that keeps Christmas relevant and covers your carpet in needles."
+  },
+  {
+    "word": "PIXAR",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animation studio that makes you cry over toys and fish, and you love it anyway."
+  },
+  {
+    "word": "PIXEL",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A tiny square of screen color that joins millions of friends to make pictures."
+  },
+  {
+    "word": "PIZZA",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A saucy, cheesy circle that’s the solution to 99% of your hunger problems."
+  },
+  {
+    "word": "PLANETOFAPES",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A film that asks the big question: what if primates ran the world better than us?"
+  },
+  {
+    "word": "PLATYPUS",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "An animal that looks like nature hit shuffle and refused to apologize."
+  },
+  {
+    "word": "PLUM",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A purple shade so sweet, it might trick you into tasting wallpaper."
+  },
+  {
+    "word": "POLISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A Slavic language known for its consonant clusters that can tie your tongue in knots."
+  },
+  {
+    "word": "POLO",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A horseback game that fuses golf, hockey, and a dash of wild equestrian chaos."
+  },
+  {
+    "word": "POP",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "Catchy tunes so bubbly, they stick in your head longer than gum on a shoe."
+  },
+  {
+    "word": "PORCUPINE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A rodent covered in spikes because personal space should be obvious."
+  },
+  {
+    "word": "PORTRAIT",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "A painting of a person who had to hold still longer than your phone camera demands."
+  },
+  {
+    "word": "PORTUGUESE",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language that sounds musical even when asking where the bathroom is."
+  },
+  {
+    "word": "POTTERY",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "Clay shaped into useful objects by people brave enough to trust spinning wheels."
+  },
+  {
+    "word": "PRINTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A temperamental device that loves paper jams more than printing your final report."
+  },
+  {
+    "word": "PROTOCOL",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "A set of digital manners that computers follow more politely than humans ever could."
+  },
+  {
+    "word": "PSYCHO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A thriller that made showers suspicious and violins extremely stressful."
+  },
+  {
+    "word": "QUADCOPTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "A four-rotor drone that buzzes around like a caffeinated mechanical mosquito."
+  },
+  {
+    "word": "QUAIL",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A small bird that pretends its head feather is the latest fashion accessory."
+  },
+  {
+    "word": "QUANTICO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A show or film about FBI recruits who juggle mysteries and shootouts with style."
+  },
+  {
+    "word": "QUANTUMCOMPUTING",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "When your computer decides it can be two places at once, blowing your mind."
+  },
+  {
+    "word": "QUARANTINE",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A claustrophobic horror flick that makes staying at home way too real."
+  },
+  {
+    "word": "QUICKSILVER",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A speedy Marvel mutant who outruns bullets—and your desire to keep up with him."
+  },
+  {
+    "word": "QUINOA",
+    "category": "FOOD",
+    "difficulty": "HARD",
+    "definition": "A protein-packed pseudo-grain that tries to be rice but ends up fancier."
+  },
+  {
+    "word": "QUOVADIS",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "An epic that questions where you're going—probably somewhere with more popcorn."
+  },
+  {
+    "word": "QURAN",
+    "category": "BOOKS",
+    "difficulty": "HARD",
+    "definition": "The holy book of Islam that millions read, recite, and respect daily."
+  },
+  {
+    "word": "QWERTY",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "The keyboard layout that ensures your fingers dance an awkward waltz for typos."
+  },
+  {
+    "word": "RABBIT",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A fluffy hopping critter that thinks carrots are gold and your garden is a buffet."
+  },
+  {
+    "word": "RACCOON",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A nocturnal bandit who raids trash cans with adorable paw dexterity."
+  },
+  {
+    "word": "RADAR",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A detection system that says ‘Peek-a-boo!’ to planes, ships, and speeding drivers."
+  },
+  {
+    "word": "RAGTIME",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A syncopated piano style that turns your fingers into a cheerful circus."
+  },
+  {
+    "word": "RAINBOW",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Nature’s colorful arch that teases you with gold but leaves you with wet socks."
+  },
+  {
+    "word": "RAMPAGE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A giant gorilla, wolf, and lizard stroll through the city, proving property damage is fun."
+  },
+  {
+    "word": "RAPTOR",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A swift dinosaur that perfected the art of group dining—on anything that moves."
+  },
+  {
+    "word": "RATCHETANDCLANK",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A space adventure about a lombax and a robot saving the galaxy with jokes and gadgets."
+  },
+  {
+    "word": "RAVIOLI",
+    "category": "FOOD",
+    "difficulty": "MEDIUM",
+    "definition": "Pasta pockets that prove stuffing things inside dough is humanity’s greatest invention."
+  },
+  {
+    "word": "REBECCA",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "A gothic novel with more mansion drama than your average reality TV show."
+  },
+  {
+    "word": "RHINOCEROS",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A horned heavyweight that proves tanks existed before engines."
+  },
+  {
+    "word": "ROCK",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A genre with guitars turned up so loud, it might shake your grandma’s knitting needles."
+  },
+  {
+    "word": "ROCKY",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A boxing movie where stairs, sweat, and determination all get starring roles."
+  },
+  {
+    "word": "ROMANIAN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A Latin-based language lurking in Eastern Europe, waiting to surprise your tongue."
+  },
+  {
+    "word": "ROSE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A flower so classic, it shows up on Valentine’s Day more often than cheesy cards."
+  },
+  {
+    "word": "ROUTER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A small box that distributes Wi-Fi and accepts blame for everything online."
+  },
+  {
+    "word": "RUGBY",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "A contact sport where tackling is encouraged, and the ball looks more confused than football."
+  },
+  {
+    "word": "RUSSIAN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language with bold sounds, serious letters, and dramatic novel potential."
+  },
+  {
+    "word": "SALSA",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A Latin rhythm so spicy you might dance right off the floor—chips not included."
+  },
+  {
+    "word": "SAXOPHONE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A brass-looking woodwind that instantly adds jazz smoke to any room."
+  },
+  {
+    "word": "SCARLET",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A red so theatrical it probably owns a cape."
+  },
+  {
+    "word": "SCULPTURE",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "Chiseling away at a block until something recognizable emerges, or your sanity crumbles."
+  },
+  {
+    "word": "SEAHORSE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny ocean horse that forgot legs but remembered charm."
+  },
+  {
+    "word": "SERVER",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "A computer that serves data and quietly wonders why everyone keeps asking for more."
+  },
+  {
+    "word": "SHINING",
+    "category": "BOOKS",
+    "difficulty": "EASY",
+    "definition": "A Stephen King novel that taught the world to fear hotels, axes, and twin girls in hallways."
+  },
+  {
+    "word": "SHREK",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An ogre comedy proving swamp life, onions, and friendship have many layers."
+  },
+  {
+    "word": "SILVER",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A shiny gray that acts fancy even when it is just reflecting your ceiling."
+  },
+  {
+    "word": "SKETCH",
+    "category": "ART",
+    "difficulty": "EASY",
+    "definition": "A quick drawing that either becomes a masterpiece or your next paper wad."
+  },
+  {
+    "word": "SKIING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "Sliding down snowy hills while pretending gravity is a recreational partner."
+  },
+  {
+    "word": "SLEET",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Frozen rain that says, ‘Snow wasn’t enough—we need an icy slip hazard too.’"
+  },
+  {
+    "word": "SLOTH",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A slow-moving mammal that turned laziness into an adorable survival strategy."
+  },
+  {
+    "word": "SNOWFALL",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "When the sky tosses down flakes like confetti, turning the world into a giant freezer."
+  },
+  {
+    "word": "SOCCER",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A global sport where feet do the talking and goalkeepers do the panicking."
+  },
+  {
+    "word": "SOFTWARE",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "Invisible computer instructions that behave perfectly until demo day."
+  },
+  {
+    "word": "SPANISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that rolls its r’s like it has somewhere stylish to be."
+  },
+  {
+    "word": "STORM",
+    "category": "WEATHER",
+    "difficulty": "HARD",
+    "definition": "A meteorological tantrum where thunder and lightning decide the skies need a mosh pit."
+  },
+  {
+    "word": "SUNFLOWER",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A bright flower that follows the sun like it owes money."
+  },
+  {
+    "word": "SUNSHINE",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Weather’s golden mood booster, best served with sunglasses and unrealistic optimism."
+  },
+  {
+    "word": "SUPERMAN",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A superhero movie icon who made capes, flying, and phone booths important."
+  },
+  {
+    "word": "SURFING",
+    "category": "SPORTS",
+    "difficulty": "MEDIUM",
+    "definition": "Standing on a board while the ocean tries to throw you dramatically."
+  },
+  {
+    "word": "SUSHI",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "Tiny rice rolls that make chopsticks feel like precision engineering."
+  },
+  {
+    "word": "SWAHILI",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A lilting East African language that greets you with 'Jambo' and a huge cultural embrace."
+  },
+  {
+    "word": "SWAN",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A graceful bird that looks elegant while secretly being ready for battle."
+  },
+  {
+    "word": "SWIMMING",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "Moving through water without sinking, ideally with more style than panic."
+  },
+  {
+    "word": "TACO",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A crunchy or soft flavor envelope that makes Tuesdays feel legally special."
+  },
+  {
+    "word": "TAPESTRY",
+    "category": "ART",
+    "difficulty": "HARD",
+    "definition": "A woven wall-hanging that lets you decorate your castle like a medieval influencer."
+  },
+  {
+    "word": "TAUPE",
+    "category": "COLOR",
+    "difficulty": "HARD",
+    "definition": "A grayish-brown shade that politely refuses to commit to either gray or brown."
+  },
+  {
+    "word": "TECHNO",
+    "category": "MUSIC",
+    "difficulty": "HARD",
+    "definition": "Electronic beats so repetitive, they hypnotize you into dancing like a robot with soul."
+  },
+  {
+    "word": "TEMPEST",
+    "category": "WEATHER",
+    "difficulty": "HARD",
+    "definition": "A storm so dramatic, Shakespeare wrote a play to capture its moody attitude."
+  },
+  {
+    "word": "TENNIS",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A racket sport where grunting and fancy footwork unite to battle fuzzy yellow orbs."
+  },
+  {
+    "word": "THAI",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A Southeast Asian language that pairs perfectly with spicy noodles and a friendly sawasdee."
+  },
+  {
+    "word": "THOR",
+    "category": "MYTHOLOGY",
+    "difficulty": "EASY",
+    "definition": "A hammer-wielding thunder god who turns stormy weather into personal branding."
+  },
+  {
+    "word": "THUNDER",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "The sky’s drumroll after lightning shows off first."
+  },
+  {
+    "word": "TITANIC",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A romance disaster movie where a door became history’s most debated furniture."
+  },
+  {
+    "word": "TORNADO",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "A swirling vortex that flings cows, houses, and your afternoon plans around."
+  },
+  {
+    "word": "TRANSISTOR",
+    "category": "TECHNOLOGY",
+    "difficulty": "HARD",
+    "definition": "A tiny electronic switch that helped computers shrink from rooms into pockets."
+  },
+  {
+    "word": "TREASUREISLAND",
+    "category": "BOOKS",
+    "difficulty": "MEDIUM",
+    "definition": "A pirate adventure where maps, mutiny, and parrots make vacation planning dangerous."
+  },
+  {
+    "word": "TROMBONE",
+    "category": "MUSIC",
+    "difficulty": "MEDIUM",
+    "definition": "A brass instrument with a slide that makes music look like plumbing."
+  },
+  {
+    "word": "TRUMPET",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A brass instrument that announces itself before anyone asks."
+  },
+  {
+    "word": "TULIP",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A springtime bloom that turned 17th-century Holland into a frenzied flower stock market."
+  },
+  {
+    "word": "TURKISH",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language with smooth rhythm and suffixes that stack like linguistic pancakes."
+  },
+  {
+    "word": "TURQUOISE",
+    "category": "COLOR",
+    "difficulty": "MEDIUM",
+    "definition": "A blue-green color that looks like vacation water in jewelry form."
+  },
+  {
+    "word": "UKRAINIAN",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A Slavic language with a melodic ring, proud culture, and unexpected tongue twisters."
+  },
+  {
+    "word": "UPLOAD",
+    "category": "TECHNOLOGY",
+    "difficulty": "EASY",
+    "definition": "Sending a file upward into the internet cloud and hoping it behaves."
+  },
+  {
+    "word": "VIOLET",
+    "category": "COLOR",
+    "difficulty": "EASY",
+    "definition": "A purple so gentle, it could calm a stressed-out rainbow with a single glance."
+  },
+  {
+    "word": "VIOLIN",
+    "category": "MUSIC",
+    "difficulty": "EASY",
+    "definition": "A string instrument that can sound angelic or like a cat protest depending on practice."
+  },
+  {
+    "word": "VOLLEYBALL",
+    "category": "SPORTS",
+    "difficulty": "EASY",
+    "definition": "A game where spiking, diving, and sand in awkward places define your day at the beach."
+  },
+  {
+    "word": "VORTEX",
+    "category": "WEATHER",
+    "difficulty": "HARD",
+    "definition": "A swirling whirlwind that might steal your hat and your dignity in one gust."
+  },
+  {
+    "word": "WAFFLE",
+    "category": "FOOD",
+    "difficulty": "EASY",
+    "definition": "A breakfast grid designed specifically to trap syrup like edible architecture."
+  },
+  {
+    "word": "WALLABY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A smaller kangaroo cousin that hops around like it missed the height upgrade."
+  },
+  {
+    "word": "WALLE",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A robot love story that makes trash cleanup and beeps surprisingly emotional."
+  },
+  {
+    "word": "WATERCOLOR",
+    "category": "ART",
+    "difficulty": "MEDIUM",
+    "definition": "An art medium so runny, it might just paint your table while you paint the paper."
+  },
+  {
+    "word": "WILLOW",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tree with droopy branches that looks like it writes poetry in the rain."
+  },
+  {
+    "word": "WIND",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Invisible air on the move, famous for stealing hats and ruining picnics."
+  },
+  {
+    "word": "WOMBAT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A sturdy Australian marsupial that looks like a furry loaf with opinions."
+  },
+  {
+    "word": "XHOSA",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A South African click language that proves consonants can be way more exciting than vowels."
+  },
+  {
+    "word": "ZEUS",
+    "category": "MYTHOLOGY",
+    "difficulty": "MEDIUM",
+    "definition": "The top Greek god whose thunderbolts make thunderstorms look like gentle sprinkles."
+  },
+  {
+    "word": "ZOOTOPIA",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animated city where animals run society and DMV jokes become painfully accurate."
+  }
+]

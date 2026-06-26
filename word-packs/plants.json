@@ -1,0 +1,200 @@
+[
+  {
+    "word": "AGAVE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A spiky plant that sweetens your margarita and pokes you at the same time."
+  },
+  {
+    "word": "BAMBOO",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A fast-growing plant that pandas treat like an all-you-can-eat buffet."
+  },
+  {
+    "word": "BASIL",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A herb so aromatic it might convince you you're an Italian chef."
+  },
+  {
+    "word": "BINDWEED",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A clingy vine that just won't take no for an answer when hugging your garden."
+  },
+  {
+    "word": "BURNINGBUSH",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A shrub so fiery red, it might make your autumn jealous."
+  },
+  {
+    "word": "CACTUS",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A plant that survives the desert by being both thirsty and aggressively unfriendly."
+  },
+  {
+    "word": "CAMELLIA",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A flower so refined, it might ask you to remove your shoes before watering."
+  },
+  {
+    "word": "CHARD",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A leafy green that looks like spinach but has rainbow stems just to show off."
+  },
+  {
+    "word": "CHIVE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A slender herb that keeps onions awake at night with its mild, fresh flavor."
+  },
+  {
+    "word": "CLOVER",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A three-leaf wonder that promises luck only if you find one with four."
+  },
+  {
+    "word": "DAFFODIL",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A cheerful yellow bloom that pops up in spring to remind winter it’s time to leave."
+  },
+  {
+    "word": "DAISY",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A cheerful flower that looks innocent while secretly starring in every meadow photo."
+  },
+  {
+    "word": "DOGWOOD",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tree that shows off pastel blooms in spring, making your neighbors’ yard jealous."
+  },
+  {
+    "word": "FENNEL",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "An herb with a licorice taste so mild it won’t remind you of candy, promise."
+  },
+  {
+    "word": "FERN",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A leafy plant that makes every room look like it hired a forest consultant."
+  },
+  {
+    "word": "FLAX",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A plant that moonlights as linen, seeds, and a reason to question your diet choices."
+  },
+  {
+    "word": "HERBALISM",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "The study of plants that insists on curing your ailments with leaves and magic."
+  },
+  {
+    "word": "HIBISCUS",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A tropical flower so flashy it makes vacation shirts look subtle."
+  },
+  {
+    "word": "IRIS",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A vibrant flower so regal, it practically demands you address it as ‘Your Majesty.’"
+  },
+  {
+    "word": "JACARANDA",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A tree that showers purple flowers like confetti, turning sidewalks into fairy-tale paths."
+  },
+  {
+    "word": "KUDZU",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A vine that grows so fast it might steal your car keys if parked too long."
+  },
+  {
+    "word": "LOTUS",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A serene flower that blooms in murky water, making mud look like a day spa."
+  },
+  {
+    "word": "MAGNOLIA",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A tree whose blossoms are so large they could host a tea party for fairies."
+  },
+  {
+    "word": "MAPLE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tree famous for leaves, syrup, and making pancakes feel important."
+  },
+  {
+    "word": "NETTLE",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A stinging plant that gives free acupuncture sessions if you dare to touch it."
+  },
+  {
+    "word": "OLEANDER",
+    "category": "PLANTS",
+    "difficulty": "HARD",
+    "definition": "A pretty flower that politely warns: 'Admire me, but please don't nibble.'"
+  },
+  {
+    "word": "ORCHID",
+    "category": "PLANTS",
+    "difficulty": "MEDIUM",
+    "definition": "A fancy flower that looks delicate and judges your watering habits silently."
+  },
+  {
+    "word": "PALM",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tropical tree that makes beaches look like they hired decorators."
+  },
+  {
+    "word": "PINE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A coniferous tree that keeps Christmas relevant and covers your carpet in needles."
+  },
+  {
+    "word": "ROSE",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A flower so classic, it shows up on Valentine’s Day more often than cheesy cards."
+  },
+  {
+    "word": "SUNFLOWER",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A bright flower that follows the sun like it owes money."
+  },
+  {
+    "word": "TULIP",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A springtime bloom that turned 17th-century Holland into a frenzied flower stock market."
+  },
+  {
+    "word": "WILLOW",
+    "category": "PLANTS",
+    "difficulty": "EASY",
+    "definition": "A tree with droopy branches that looks like it writes poetry in the rain."
+  }
+]

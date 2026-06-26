@@ -1,0 +1,314 @@
+[
+  {
+    "word": "ALLIGATOR",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A toothy swamp resident that smiles like it knows your escape route is terrible."
+  },
+  {
+    "word": "ARMADILLO",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny armored tank that waddles around like nature gave it medieval pajamas."
+  },
+  {
+    "word": "BISON",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A shaggy grassland tank that looks like it bench-presses prairie wind."
+  },
+  {
+    "word": "COBRA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A snake with a hood that says, “Please admire me from several counties away.”"
+  },
+  {
+    "word": "COYOTE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A wild canine famous for howling at the moon and ignoring cartoon safety rules."
+  },
+  {
+    "word": "CRAB",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A sideways-walking sea grump with built-in pinchers and zero patience."
+  },
+  {
+    "word": "DRAGONFLY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A flying insect that looks like a tiny helicopter designed by a jeweler."
+  },
+  {
+    "word": "FERRET",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A noodle-shaped mammal that steals socks and possibly your sense of order."
+  },
+  {
+    "word": "FLAMINGO",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A pink bird that stands on one leg like it is posing for a tropical magazine cover."
+  },
+  {
+    "word": "HAMSTER",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A tiny pet powered by snacks, wheels, and mysterious midnight construction projects."
+  },
+  {
+    "word": "HEDGEHOG",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny spiky mammal that looks cuddly until your hands learn physics."
+  },
+  {
+    "word": "HYENA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A cackling carnivore that laughs at its own jokes and your survival plans."
+  },
+  {
+    "word": "IBEX",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A mountain goat with horns so fancy, it makes your hairstyle look dull."
+  },
+  {
+    "word": "IBIS",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A long-beaked bird that strolls around like it has official wetland business."
+  },
+  {
+    "word": "IGUANA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A lizard that lounges so confidently it looks like it owns the sunbeam."
+  },
+  {
+    "word": "IMPALA",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A graceful antelope that jumps like gravity forgot to check its calendar."
+  },
+  {
+    "word": "JACKAL",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A canine trickster that laughs at your secrets while raiding the neighborhood trash."
+  },
+  {
+    "word": "JAGUAR",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A spotted cat who thinks it’s the stealth boss of the rainforest—and it’s right."
+  },
+  {
+    "word": "JELLYFISH",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A wiggly sea creature that’s half water balloon, half electric fence, and all confusion."
+  },
+  {
+    "word": "KANGAROO",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "An Aussie hopper with a built-in pouch, like a living fanny pack for baby roos."
+  },
+  {
+    "word": "KITTY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A feline friend that plots world domination between naps and treat demands."
+  },
+  {
+    "word": "KOALA",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A eucalyptus-munching marsupial that looks cuddly but might judge your life choices."
+  },
+  {
+    "word": "LADYBUG",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A polka-dotted insect that brings luck—unless you’re a leaf it’s about to munch."
+  },
+  {
+    "word": "LEMUR",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A wide-eyed primate that looks permanently surprised by its own tail."
+  },
+  {
+    "word": "LEOPARD",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A spotted cat that hunts silently but announces fashion statements loudly."
+  },
+  {
+    "word": "LIZARD",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A reptile that sometimes abandons its tail faster than you can say 'ouch.'"
+  },
+  {
+    "word": "MACAW",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A parrot so colorful it makes rainbows question their life choices."
+  },
+  {
+    "word": "MAMMOTH",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A prehistoric elephant with built-in fur coat and tusks designed for winter fashion."
+  },
+  {
+    "word": "MEERKAT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny lookout expert that stands guard like it heard gossip over the horizon."
+  },
+  {
+    "word": "MOOSE",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A massive deerlike creature that laughs in the face of your tiny car."
+  },
+  {
+    "word": "NARWHAL",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "The unicorn of the sea, proving that even whales need fancy headgear."
+  },
+  {
+    "word": "NEWT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A small amphibian that occasionally photobombs witches’ cauldrons in fairy tales."
+  },
+  {
+    "word": "OCTOPUS",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "An eight-armed genius that opens jars and your mind about seafood intelligence."
+  },
+  {
+    "word": "ORANGUTAN",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A great ape with serious arms and a knack for making trees their personal hammocks."
+  },
+  {
+    "word": "ORCA",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A black-and-white whale that flips seals like pancakes—nature’s aquatic panda on steroids."
+  },
+  {
+    "word": "OTTER",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A water-loving mammal that eats snacks on its belly like a floating couch potato."
+  },
+  {
+    "word": "PANTHER",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A sleek black cat prowling the jungle with a confidence that outstruts supermodels."
+  },
+  {
+    "word": "PARROT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A bird that repeats your secrets and occasionally stages a coup against boredom."
+  },
+  {
+    "word": "PEACOCK",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A bird that opens its tail like nature’s most dramatic hand fan."
+  },
+  {
+    "word": "PENGUIN",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A flightless bird that waddles around Antarctica wearing a tux, no event required."
+  },
+  {
+    "word": "PLATYPUS",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "An animal that looks like nature hit shuffle and refused to apologize."
+  },
+  {
+    "word": "PORCUPINE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A rodent covered in spikes because personal space should be obvious."
+  },
+  {
+    "word": "QUAIL",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A small bird that pretends its head feather is the latest fashion accessory."
+  },
+  {
+    "word": "RABBIT",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A fluffy hopping critter that thinks carrots are gold and your garden is a buffet."
+  },
+  {
+    "word": "RACCOON",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A nocturnal bandit who raids trash cans with adorable paw dexterity."
+  },
+  {
+    "word": "RAPTOR",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A swift dinosaur that perfected the art of group dining—on anything that moves."
+  },
+  {
+    "word": "RHINOCEROS",
+    "category": "ANIMALS",
+    "difficulty": "HARD",
+    "definition": "A horned heavyweight that proves tanks existed before engines."
+  },
+  {
+    "word": "SEAHORSE",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A tiny ocean horse that forgot legs but remembered charm."
+  },
+  {
+    "word": "SLOTH",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A slow-moving mammal that turned laziness into an adorable survival strategy."
+  },
+  {
+    "word": "SWAN",
+    "category": "ANIMALS",
+    "difficulty": "EASY",
+    "definition": "A graceful bird that looks elegant while secretly being ready for battle."
+  },
+  {
+    "word": "WALLABY",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A smaller kangaroo cousin that hops around like it missed the height upgrade."
+  },
+  {
+    "word": "WOMBAT",
+    "category": "ANIMALS",
+    "difficulty": "MEDIUM",
+    "definition": "A sturdy Australian marsupial that looks like a furry loaf with opinions."
+  }
+]

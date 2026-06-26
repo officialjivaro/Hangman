@@ -1,0 +1,146 @@
+[
+  {
+    "word": "AURORA",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Nature’s neon lights, appearing only when you really can’t find your camera."
+  },
+  {
+    "word": "BLIZZARD",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "When winter decides to throw a snow party and forgets to send an end time."
+  },
+  {
+    "word": "CIRRUS",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Wispy clouds that dance in the sky while whispering, 'It might rain, but I'm not telling.'"
+  },
+  {
+    "word": "CLOUDS",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Sky pillows that gather overhead to gossip about whether they should rain."
+  },
+  {
+    "word": "CYCLONE",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "A swirling storm that spins faster than your washing machine on its angriest cycle."
+  },
+  {
+    "word": "DRIZZLE",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Rain that cannot commit to being dramatic but still ruins your hair."
+  },
+  {
+    "word": "FOG",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "A cloud that got lost and decided to wander around at street level."
+  },
+  {
+    "word": "HAIL",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Frozen sky marbles that fall down and bully your windshield."
+  },
+  {
+    "word": "HEATWAVE",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "When the sun decides your entire town should become soup."
+  },
+  {
+    "word": "HURRICANE",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "A massive spinning storm that treats coastlines like poorly arranged furniture."
+  },
+  {
+    "word": "ICICLE",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "A frozen spike of doom hanging from rooftops, just waiting to drop on unsuspecting heads."
+  },
+  {
+    "word": "LIGHTNING",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Sky electricity that flashes dramatically before thunder gives its loud opinion."
+  },
+  {
+    "word": "MIST",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Fog’s shy cousin that gently appears and makes everything look mysterious."
+  },
+  {
+    "word": "MONSOON",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Rainy season that turns streets into rivers and umbrellas into boats."
+  },
+  {
+    "word": "RAINBOW",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Nature’s colorful arch that teases you with gold but leaves you with wet socks."
+  },
+  {
+    "word": "SLEET",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "Frozen rain that says, ‘Snow wasn’t enough—we need an icy slip hazard too.’"
+  },
+  {
+    "word": "SNOWFALL",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "When the sky tosses down flakes like confetti, turning the world into a giant freezer."
+  },
+  {
+    "word": "STORM",
+    "category": "WEATHER",
+    "difficulty": "HARD",
+    "definition": "A meteorological tantrum where thunder and lightning decide the skies need a mosh pit."
+  },
+  {
+    "word": "SUNSHINE",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Weather’s golden mood booster, best served with sunglasses and unrealistic optimism."
+  },
+  {
+    "word": "TEMPEST",
+    "category": "WEATHER",
+    "difficulty": "HARD",
+    "definition": "A storm so dramatic, Shakespeare wrote a play to capture its moody attitude."
+  },
+  {
+    "word": "THUNDER",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "The sky’s drumroll after lightning shows off first."
+  },
+  {
+    "word": "TORNADO",
+    "category": "WEATHER",
+    "difficulty": "MEDIUM",
+    "definition": "A swirling vortex that flings cows, houses, and your afternoon plans around."
+  },
+  {
+    "word": "VORTEX",
+    "category": "WEATHER",
+    "difficulty": "HARD",
+    "definition": "A swirling whirlwind that might steal your hat and your dignity in one gust."
+  },
+  {
+    "word": "WIND",
+    "category": "WEATHER",
+    "difficulty": "EASY",
+    "definition": "Invisible air on the move, famous for stealing hats and ruining picnics."
+  }
+]

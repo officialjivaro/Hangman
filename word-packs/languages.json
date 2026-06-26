@@ -1,0 +1,182 @@
+[
+  {
+    "word": "ARABIC",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language so rich, it could write poetry just by clearing its throat."
+  },
+  {
+    "word": "BENGALI",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language so melodic it could sing lullabies to your stubborn alarm clock."
+  },
+  {
+    "word": "CELTIC",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "An ancient tongue that could charm dragons or at least make bagpipes sound cooler."
+  },
+  {
+    "word": "DANISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A Scandinavian tongue that pairs brilliantly with pastries and cozy winter sweaters."
+  },
+  {
+    "word": "DUTCH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that sounds like English and German met for coffee and got creative."
+  },
+  {
+    "word": "ENGLISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that loves borrowing words from others and never returning them."
+  },
+  {
+    "word": "FLEMISH",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A Dutch dialect that might trick you into thinking Belgium is all about waffles."
+  },
+  {
+    "word": "FRENCH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that can make ordering bread sound like a romantic poem."
+  },
+  {
+    "word": "GAELIC",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A Celtic language that can make even mundane words sound like a mystical chant."
+  },
+  {
+    "word": "GERMAN",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language famous for long words that look like sentences wearing trench coats."
+  },
+  {
+    "word": "GREEK",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "An ancient language that gave us philosophy, drama, and very intimidating letters."
+  },
+  {
+    "word": "HEBREW",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language with ancient roots and letters that read right-to-left like a plot twist."
+  },
+  {
+    "word": "HINDI",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A widely spoken language that carries songs, stories, and excellent movie drama."
+  },
+  {
+    "word": "INUKTITUT",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "An Inuit language with sounds as crisp as snow under very serious boots."
+  },
+  {
+    "word": "ITALIAN",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A romance language that makes even your grocery list sound like a love poem."
+  },
+  {
+    "word": "JAPANESE",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A polite language full of hidden levels of respect, like an onion with manners."
+  },
+  {
+    "word": "KOREAN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language that pairs perfectly with K-dramas, K-pop, and your next kimchi craving."
+  },
+  {
+    "word": "LATIN",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A dead language that refuses to die, whispering ‘Carpe diem’ from ancient textbooks."
+  },
+  {
+    "word": "MANDARIN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A tonal language so intricate, your tongue might do backflips if it had feet."
+  },
+  {
+    "word": "NORWEGIAN",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A Nordic tongue that pairs effortlessly with fjords, trolls, and cozy sweaters."
+  },
+  {
+    "word": "POLISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A Slavic language known for its consonant clusters that can tie your tongue in knots."
+  },
+  {
+    "word": "PORTUGUESE",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language that sounds musical even when asking where the bathroom is."
+  },
+  {
+    "word": "ROMANIAN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A Latin-based language lurking in Eastern Europe, waiting to surprise your tongue."
+  },
+  {
+    "word": "RUSSIAN",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language with bold sounds, serious letters, and dramatic novel potential."
+  },
+  {
+    "word": "SPANISH",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A language that rolls its r’s like it has somewhere stylish to be."
+  },
+  {
+    "word": "SWAHILI",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A lilting East African language that greets you with 'Jambo' and a huge cultural embrace."
+  },
+  {
+    "word": "THAI",
+    "category": "LANGUAGES",
+    "difficulty": "EASY",
+    "definition": "A Southeast Asian language that pairs perfectly with spicy noodles and a friendly sawasdee."
+  },
+  {
+    "word": "TURKISH",
+    "category": "LANGUAGES",
+    "difficulty": "MEDIUM",
+    "definition": "A language with smooth rhythm and suffixes that stack like linguistic pancakes."
+  },
+  {
+    "word": "UKRAINIAN",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A Slavic language with a melodic ring, proud culture, and unexpected tongue twisters."
+  },
+  {
+    "word": "XHOSA",
+    "category": "LANGUAGES",
+    "difficulty": "HARD",
+    "definition": "A South African click language that proves consonants can be way more exciting than vowels."
+  }
+]

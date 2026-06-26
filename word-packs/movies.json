@@ -1,0 +1,314 @@
+[
+  {
+    "word": "AMELIE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A charming film where whimsy runs the city and garden gnomes get travel benefits."
+  },
+  {
+    "word": "AVENGERS",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A superhero team that saves the world by arguing dramatically in matching chaos."
+  },
+  {
+    "word": "BLADE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A vampire hunter movie where sunglasses, leather, and attitude do most of the work."
+  },
+  {
+    "word": "CARS",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animated world where vehicles have feelings, sponsors, and suspiciously no drivers."
+  },
+  {
+    "word": "COCO",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A colorful movie that turns family history, music, and skeletons into emotional confetti."
+  },
+  {
+    "word": "DUMBO",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A flying elephant story proving ears can be both adorable and aerodynamic."
+  },
+  {
+    "word": "FANTASIA",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A musical Disney experiment where brooms dance better than most people at weddings."
+  },
+  {
+    "word": "GODZILLA",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A giant monster movie icon who treats cities like inconvenient stacks of blocks."
+  },
+  {
+    "word": "GOODFELLAS",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A mob movie where dinner, crime, and narration all arrive perfectly seasoned."
+  },
+  {
+    "word": "GREMLINS",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A creature feature explaining why snacks after midnight are a terrible business plan."
+  },
+  {
+    "word": "HUGO",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A film so whimsical, it turns train stations into magical playgrounds for clock-fixing kids."
+  },
+  {
+    "word": "ICEAGE",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A prehistoric tale of a squirrel, an acorn, and the ultimate patience test."
+  },
+  {
+    "word": "INCEPTION",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A dream within a dream within a headache that leaves you spinning like a top."
+  },
+  {
+    "word": "INCREDIBLES",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A superhero family movie proving stretchy parents and invisible teens still have chores."
+  },
+  {
+    "word": "INTERSTELLAR",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A cosmic voyage that proves love can transcend dimensions, but your popcorn might not."
+  },
+  {
+    "word": "IRONMAN",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A billionaire in a metal suit who fights baddies and still finds time to crack jokes."
+  },
+  {
+    "word": "JACKIECHAN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A martial arts legend who does his own stunts and might out-parkour your dreams."
+  },
+  {
+    "word": "JAWS",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A film about a giant shark that made everyone fear beaches—thanks Spielberg."
+  },
+  {
+    "word": "JUMANJI",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A board game so lively, it unleashes jungle chaos on your living room—roll at your own risk."
+  },
+  {
+    "word": "JURASSICPARK",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A dinosaur movie proving that theme parks and ancient predators are a poor investment mix."
+  },
+  {
+    "word": "KINGKONG",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A giant ape who scales skyscrapers like they’re playground slides—no bananas required."
+  },
+  {
+    "word": "KLINGON",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A warrior race from Star Trek with forehead ridges cooler than your wrinkles."
+  },
+  {
+    "word": "LABYRINTH",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A fantasy film with a goblin king so dazzling he almost outshines his own mullet."
+  },
+  {
+    "word": "LIONKING",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A Disney tale of royal felines and an uncle so shady Scar’s got permanent sunburn."
+  },
+  {
+    "word": "LOGAN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A gritty superhero film proving even claws get old and cranky."
+  },
+  {
+    "word": "MADAGASCAR",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animated zoo escape where dancing lemurs and a paranoid zebra steal the show."
+  },
+  {
+    "word": "MATRIX",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A sci-fi flick that makes you question your reality—and your spoon collection."
+  },
+  {
+    "word": "MEMENTO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A backwards mystery that makes your memory feel underqualified for the job."
+  },
+  {
+    "word": "METROPOLIS",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A silent film classic that invented futuristic cityscapes before we had flying cars."
+  },
+  {
+    "word": "MOANA",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An ocean adventure where the sea has opinions and a chicken has questionable instincts."
+  },
+  {
+    "word": "MULAN",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A warrior tale where courage, disguise, and one tiny dragon save the day."
+  },
+  {
+    "word": "NARUTO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A ninja tale so full of ramen, you’ll crave noodles more than superpowers."
+  },
+  {
+    "word": "NEMO",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A lost clownfish who taught the world never to underestimate a forgetful blue friend."
+  },
+  {
+    "word": "NIGHTCRAWLER",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A thriller so intense, it might make you reconsider late-night career changes."
+  },
+  {
+    "word": "OMEN",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A horror film about a kid so creepy, you’ll think twice before babysitting again."
+  },
+  {
+    "word": "ONWARD",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A fantasy road trip where elves, magic, and half a dad are the norm."
+  },
+  {
+    "word": "OSCAR",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A golden statue that actors cry over when hugging it, thanking their mom and agent."
+  },
+  {
+    "word": "PIXAR",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animation studio that makes you cry over toys and fish, and you love it anyway."
+  },
+  {
+    "word": "PLANETOFAPES",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A film that asks the big question: what if primates ran the world better than us?"
+  },
+  {
+    "word": "PSYCHO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A thriller that made showers suspicious and violins extremely stressful."
+  },
+  {
+    "word": "QUANTICO",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A show or film about FBI recruits who juggle mysteries and shootouts with style."
+  },
+  {
+    "word": "QUARANTINE",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A claustrophobic horror flick that makes staying at home way too real."
+  },
+  {
+    "word": "QUICKSILVER",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A speedy Marvel mutant who outruns bullets—and your desire to keep up with him."
+  },
+  {
+    "word": "QUOVADIS",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "An epic that questions where you're going—probably somewhere with more popcorn."
+  },
+  {
+    "word": "RAMPAGE",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A giant gorilla, wolf, and lizard stroll through the city, proving property damage is fun."
+  },
+  {
+    "word": "RATCHETANDCLANK",
+    "category": "MOVIES",
+    "difficulty": "HARD",
+    "definition": "A space adventure about a lombax and a robot saving the galaxy with jokes and gadgets."
+  },
+  {
+    "word": "ROCKY",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A boxing movie where stairs, sweat, and determination all get starring roles."
+  },
+  {
+    "word": "SHREK",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An ogre comedy proving swamp life, onions, and friendship have many layers."
+  },
+  {
+    "word": "SUPERMAN",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A superhero movie icon who made capes, flying, and phone booths important."
+  },
+  {
+    "word": "TITANIC",
+    "category": "MOVIES",
+    "difficulty": "MEDIUM",
+    "definition": "A romance disaster movie where a door became history’s most debated furniture."
+  },
+  {
+    "word": "WALLE",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "A robot love story that makes trash cleanup and beeps surprisingly emotional."
+  },
+  {
+    "word": "ZOOTOPIA",
+    "category": "MOVIES",
+    "difficulty": "EASY",
+    "definition": "An animated city where animals run society and DMV jokes become painfully accurate."
+  }
+]
